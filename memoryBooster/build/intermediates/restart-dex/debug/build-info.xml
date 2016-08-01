@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    timestamp="357230905268667"
+    token="7411359144121105722"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1106" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="993" />
+    <task
+        name="verifier"
+        duration="282" />
+
+    <artifact
+        location="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="357230905268667"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

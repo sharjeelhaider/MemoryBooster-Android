@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_bg"
+    android:orientation="vertical" >
+
+    <!-- Dialog Title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="@string/dialog_title"
+        android:textColor="#089bd1"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Dialog Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="#c9c9c9" />
+
+    <!-- Dialog Message Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="8dp" >
+
+        <TextView
+            android:id="@+id/txtDialogProcessKilled"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Process Killed: 17"
+            android:textColor="#11b0ea"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtMemoryCleaned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Memory Cleaned: 30MB"
+            android:textColor="#11b0ea"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtCacheCleaned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Cache Cleaned: 30MB"
+            android:textColor="#11b0ea"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Dialog OK Button -->
+    <Button
+        android:id="@+id/btnDialogOK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_boost_sel"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+        android:text="@string/btn_ok" />
+
+</LinearLayout>

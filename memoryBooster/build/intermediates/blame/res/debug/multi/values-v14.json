@@ -1,0 +1,310 @@
+[
+    {
+        "outputFile": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1941,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2425,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1246
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1251,
+                    "endColumn": 70,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 82,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1810
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1815,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 119,
+                    "endOffset": 2352
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2357,
+                    "endColumn": 62,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2420,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2574,
+                    "endColumn": 62,
+                    "endOffset": 2632
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2637,
+                    "endColumn": 131,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3903
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3908,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4175
+                },
+                "from": {
+                    "file": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2796,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3063
+                    }
+                }
+            }
+        ]
+    }
+]

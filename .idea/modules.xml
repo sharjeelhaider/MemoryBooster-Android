@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MemoryBooster.iml" filepath="$PROJECT_DIR$/MemoryBooster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memoryBooster/memoryBooster.iml" filepath="$PROJECT_DIR$/memoryBooster/memoryBooster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressWheel/progressWheel.iml" filepath="$PROJECT_DIR$/progressWheel/progressWheel.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressWheel"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="color" name="barColor"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="dimension" name="spinSpeed"/><attr format="integer" name="delayMillis"/><attr format="color" name="circleColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="barWidth"/><attr format="dimension" name="barLength"/><attr format="color" name="contourColor"/><attr format="dimension" name="contourSize"/></declare-styleable>
+</resources>

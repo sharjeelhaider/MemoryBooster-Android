@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cad1dc"
+    android:orientation="vertical" >
+
+    <!-- Progress Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="8dp"
+        android:layout_weight="3.2"
+        android:background="@drawable/card_background"
+        android:orientation="horizontal" >
+
+        <!-- Progress Wheel -->
+        <com.todddavies.components.progressbar.ProgressWheel
+            android:id="@+id/pw_spinner"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="left"
+            ProgressWheel:barColor="#08b3f2"
+            ProgressWheel:barLength="60dp"
+            ProgressWheel:barWidth="10dp"
+            ProgressWheel:rimColor="#316171"
+            ProgressWheel:rimWidth="5dp"
+            ProgressWheel:spinSpeed="3dp"
+            ProgressWheel:text="0%"
+            ProgressWheel:textColor="#00aaf9"
+            ProgressWheel:textSize="26sp" />
+
+        <!-- Memory Status Container -->
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp" >
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="2dp" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left"
+                    android:text="@string/used_mem"
+                    android:textColor="#316171"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/txtUsedMemory"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left"
+                    android:paddingLeft="3dp"
+                    android:text="128 MB"
+                    android:textColor="#316171"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left"
+                    android:text="@string/free_mem"
+                    android:textColor="#08b3f2"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/txtFreeMemory"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left"
+                    android:paddingLeft="3dp"
+                    android:text="128 MB"
+                    android:textColor="#08b3f2"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left"
+                    android:text="@string/total_mem"
+                    android:textColor="#316171"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/txtTotalMemory"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left"
+                    android:paddingLeft="3dp"
+                    android:text="484 MB"
+                    android:textColor="#316171"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+    <!-- Cleaned Information Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="12dp"
+        android:layout_weight="3"
+        android:background="@drawable/card_background"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txtLastBoost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:gravity="left"
+            android:textColor="#1f94bb"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txtLastMemoryCleaned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="5dp"
+            android:gravity="left"
+            android:textColor="#1f94bb"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txtLastCacheCleaned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:gravity="left"
+            android:textColor="#1f94bb"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <!-- Boost Button Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="18dp"
+        android:layout_weight="1.5" >
+
+        <Button
+            android:id="@+id/btnBoost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/button_boost_sel"
+            android:text="@string/btn_boost"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- AdMob Layout -->
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admob_publisher_id" />
+
+</LinearLayout>
