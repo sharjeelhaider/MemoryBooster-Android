@@ -214,7 +214,7 @@
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="156b11265df6aedcf22b07147cbb8ac4398f429e">
+        sha1="5e7023bddd9ed1dd1002af0a0f3e17e8c2e916d2">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_68291d25625842c92a16abc7225f47f528c3a486\classes.dex" />
     </item>
     <item
@@ -241,7 +241,7 @@
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="7d024d8c9e8c0cda9a7b0000b5d8f9eb04fbee75">
+        sha1="2a149f8797d4ca248b65af66a4e841bb24460e2c">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91926d89e435342db8b495482f856c27b76e43ca\classes.dex" />
     </item>
     <item

@@ -152,12 +152,12 @@
         "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_fragment.xml"
-    },
-    {
         "merged": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
