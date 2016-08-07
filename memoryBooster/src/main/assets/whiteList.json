@@ -1,0 +1,327 @@
+{
+  "data":
+[
+  {
+    "packageName": "com.google.android.*"
+
+  },
+  {
+  "packageName": "com.facebook.*"
+  },
+  {
+    "packageName": "com.cresan.*"
+  },
+  {
+  "packageName": "com.instagram.*"
+
+  },
+  {
+  "packageName": "com.snapchat.*"
+  },
+  {
+  "packageName": "com.twitter.*"
+  }
+  ,
+  {
+  "packageName": "tv.periscope.android"
+  }
+  ,
+  {
+  "packageName": "com.linkedin.*"
+  },
+  {
+  "packageName": "com.pinterest"
+
+  },
+  {
+  "packageName": "com.tumblr"
+  },
+  {
+  "packageName": "com.whatsapp"
+  }
+  ,
+  {
+  "packageName": "com.skype.*"
+  }
+  ,
+  {
+  "packageName": "com.viber.*"
+  },
+  {
+  "packageName": "jp.naver.line.android"
+
+  },
+  {
+  "packageName": "com.spotify.*"
+  },
+  {
+  "packageName": "com.soundcloud.*"
+  }
+  ,
+  {
+  "packageName": "com.shazam.*"
+  }
+  ,
+  {
+  "packageName": "com.dropbox.*"
+  },
+  {
+  "packageName": "com.adobe.*"
+
+  },
+  {
+  "packageName": "com.microsoft.*"
+  },
+  {
+  "packageName": "com.wallapop"
+  }
+  ,
+  {
+  "packageName": "com.ebay.*"
+  }
+  ,
+  {
+  "packageName": "com.amazon.mShop.android.shopping"
+  },
+  {
+  "packageName": "com.accuweather.*"
+
+  },
+  {
+  "packageName": "org.videolan.vlc"
+  },
+  {
+  "packageName": "com.imangi.*"
+  }
+  ,
+  {
+  "packageName": "com.tripadvisor.tripadvisor"
+  }
+  ,
+  {
+  "packageName": "com.trivago"
+  },
+  {
+  "packageName": "com.supercell.*"
+  },
+  {
+  "packageName": "me.pou.app"
+  }
+  ,
+  {
+  "packageName": "com.king.*"
+  }
+  ,
+  {
+  "packageName": "com.robtopx.geometryjumplite"
+  },
+  {
+  "packageName": "com.frogmind.*"
+
+  },
+  {
+  "packageName": "com.playdead.*"
+  },
+  {
+  "packageName": "com.leosfortune"
+  }
+  ,
+  {
+  "packageName": "air.net.machinarium.Machinarium.GP"
+  }
+  ,
+  {
+  "packageName": "com.blizzard.*"
+  },
+  {
+  "packageName": "com.machinezone.gow"
+
+  },
+  {
+  "packageName": "com.cleanmaster.mguard"
+  },
+  {
+  "packageName": "mobi.wifi.toolbox"
+  }
+  ,
+  {
+  "packageName": "com.piriform.ccleaner"
+  }
+  ,
+  {
+  "packageName": "com.ijinshan.kbatterydoctor_en"
+  },
+  {
+  "packageName": "net.infojobs.mobile.android"
+
+  },
+  {
+  "packageName": "com.jobandtalent.android"
+  },
+  {
+  "packageName": "com.iphonedroid.marca"
+  }
+  ,
+  {
+  "packageName": "com.resultadosfutbol.mobile"
+  }
+  ,
+  {
+  "packageName": "es.mmip.prisacom.as"
+  },
+  {
+  "packageName": "eu.livesport.MisMarcadores_com"
+
+  },
+  {
+  "packageName": "com.tinder"
+  },
+  {
+  "packageName": "com.inditex.*"
+  }
+  ,
+  {
+  "packageName": "com.hm.goe"
+  }
+  ,
+  {
+  "packageName": "com.dylvian.mango.activities"
+  },
+  {
+  "packageName": "es.burgerking.android"
+
+  },
+  {
+  "packageName": "com.mcdonalds.*"
+  },
+  {
+  "packageName": "com.idealista.android"
+  }
+  ,
+  {
+  "packageName": "com.ikea.kompis"
+  }
+  ,
+  {
+  "packageName": "com.munrodev.crfmobile"
+  },
+  {
+  "packageName": "com.primarkcatalogo"
+
+  },
+  {
+  "packageName": "com.feverup.fever"
+  },
+  {
+  "packageName": "com.autoscout24"
+  }
+  ,
+  {
+  "packageName": "com.comuto"
+  }
+  ,
+  {
+  "packageName": "com.venticake.retrica"
+  },
+  {
+  "packageName": "com.quvideo.xiaoying"
+
+  },
+  {
+  "packageName": "com.mobilemotion.dubsmash"
+  },
+  {
+  "packageName": "com.estrongs.android.pop"
+  }
+  ,
+  {
+  "packageName": "flipboard.app"
+  }
+  ,
+  {
+  "packageName": "com.ustwo.*"
+  },
+  {
+  "packageName": "com.FireproofStudios.*"
+
+  },
+  {
+  "packageName": "com.buak.link2sdplus"
+  },
+  {
+  "packageName": "net.dinglisch.android.taskerm"
+  }
+  ,
+  {
+  "packageName": "com.a0soft.gphone.app2sd"
+  }
+  ,
+  {
+  "packageName": "com.zeptolab.*"
+  },
+  {
+  "packageName": "com.disney.*"
+
+  },
+  {
+  "packageName": "com.booking"
+  },
+  {
+  "packageName": "rge.tech.usuarios"
+  }
+  ,
+  {
+  "packageName": "es.dgtnomad.avisaradares"
+  }
+  ,
+  {
+  "packageName": "com.rovio.*"
+  },
+  {
+  "packageName": "com.adobe.*"
+
+  },
+  {
+  "packageName": "com.devuni.flashlight"
+  },
+  {
+  "packageName": "com.intellectualflame.ledflashlight.washer"
+  }
+  ,
+  {
+  "packageName": "com.pandora.*"
+  }
+  ,
+  {
+  "packageName": "com.netflix.*"
+  },
+  {
+  "packageName": "com.contextlogic.wish"
+
+  },
+  {
+  "packageName": "kik.android"
+  },
+  {
+  "packageName": "com.kiloo.subwaysurf"
+  }
+  ,
+  {
+  "packageName": "com.leo.appmaster"
+  }
+  ,
+  {
+  "packageName": "com.apalon.myclockfree"
+  },
+  {
+  "packageName": "com.yadavapp.keypadlockscreen"
+
+  },
+  {
+  "packageName": "com.apple.*"
+  },
+  {
+  "packageName": "com.gameloft.*"
+  }
+]
+}

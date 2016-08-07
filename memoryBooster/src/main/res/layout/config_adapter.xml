@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/SecondaryColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/SecondaryColor"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.15"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/usb_title"
+                android:textColor="@color/info_icon_bottom_text"
+                android:id="@+id/titleWarning"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp">
+
+                <ImageView
+                    android:id="@+id/iconUsb"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/usb_icon"
+                    android:layout_weight="0.25"
+                    android:adjustViewBounds="true"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/usb_message"
+                    android:id="@+id/messageUSB"
+                    android:gravity="left|center_horizontal"
+                    android:textColor="@color/info_icon_bottom_text"
+                    android:layout_gravity="center_vertical"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="20dp">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Resolver"
+                    android:id="@+id/buttonSolveUsb"
+                    android:background="@drawable/calibrate_button_selector"
+                    android:textColor="#ffffff"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginRight="30dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ignorar"
+                    android:id="@+id/buttonIgnore"
+                    android:background="@drawable/decline_eula_button_selector"
+                    android:textColor="#ffffff"
+                    android:layout_gravity="center_horizontal"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

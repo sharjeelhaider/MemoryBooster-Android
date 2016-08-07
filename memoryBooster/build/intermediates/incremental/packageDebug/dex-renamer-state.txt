@@ -1,7 +1,7 @@
-#Mon Aug 01 15:50:42 PKT 2016
-base.0=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_68291d25625842c92a16abc7225f47f528c3a486
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91926d89e435342db8b495482f856c27b76e43ca\\classes.dex
-base.1=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91926d89e435342db8b495482f856c27b76e43ca
-file.0=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_68291d25625842c92a16abc7225f47f528c3a486\\classes.dex
+#Sun Aug 07 14:14:57 PKT 2016
+base.0=F\:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f3d971336f3fd514f69549c0c48340cd7ee9f233
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb33653c27611a4d85e915bc8ee8ae2de43f49ec\\classes.dex
+base.1=F\:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb33653c27611a4d85e915bc8ee8ae2de43f49ec
+file.0=F\:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f3d971336f3fd514f69549c0c48340cd7ee9f233\\classes.dex

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.6"
+            android:background="@color/SecondaryColor"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:id="@+id/scanningProgressPanel"
+                    android:visibility="invisible"
+                    android:background="@color/colorBackgroundScanInProgress">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.1"/>
+
+                    <at.grabner.circleprogress.CircleProgressView
+                        android:layout_gravity="center"
+                        android:id="@+id/circleView"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.5"
+                        app:cpv_unit="%"
+                        app:cpv_textColor="#ffffffff"
+                        app:cpv_unitColor="#ffffffff"
+                        app:cpv_showUnit="true"
+                        app:cpv_textScale="0.5"
+                        app:cpv_unitScale="1.0"
+                        app:cpv_autoTextSize="true"
+                        app:cpv_value="0.0"
+                        app:cpv_maxValue="100.0"
+                        app:cpv_barWidth="15.0dip"
+                        app:cpv_barColor="@color/MediumRiskColor"
+                        app:cpv_spinColor="@color/MediumRiskColor"
+                        app:cpv_rimColor="@color/fix_screen_progressbar_rim_bg_color"
+                        app:cpv_rimWidth="15.0dip"
+                        app:cpv_contourSize="0.0dip"
+                        app:cpv_seekMode="false"
+                        app:cpv_unitPosition="right_bottom"/>
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.01"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="@string/scanningText"
+                        android:id="@+id/scanningTextView"
+                        android:textColor="#ffffff"
+                        android:gravity="center_horizontal"
+                        android:textSize="@dimen/scanning_font_size"/>
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.1"/>
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/HighRiskColor"
+                    android:orientation="vertical"
+                    android:id="@+id/deviceRiskPanel"
+                    android:visibility="visible">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0.1dp"
+                            android:layout_weight="0.1"/>
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="0.5"
+                            android:adjustViewBounds="true"
+                            android:id="@+id/iconRisk"
+                            android:src="@drawable/shield_high_risk_icon"/>
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="0.1"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:text="2 PROBLEMAS"
+                            android:id="@+id/topMenacesCounter"
+                            android:textColor="#ffffff"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/menaces_text_font_size"/>
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="0.05"/>
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="@dimen/button_height_resolve_problems"
+                            android:text="@string/resolve_problems"
+                            android:id="@+id/button_resolve_problems"
+                            android:background="@drawable/resolve_button_selector"
+                            android:textColor="@color/SecondaryTextColor"
+                            android:layout_gravity="center"
+                            android:focusable="false"
+                            android:textSize="@dimen/button_menaces_text_font_size"
+                            />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="0.1"/>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:id="@+id/superContainer"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:background="@color/color_BackgroundAnimationProgress">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/buttonLayout"
+                android:visibility="visible">
+
+                <Button
+                    android:id="@+id/runAntivirusNow"
+                    android:layout_width="@dimen/button_scan_widht"
+                    android:layout_height="@dimen/button_scan_height"
+                    android:text="Scan"
+                    android:textStyle="bold"
+                    android:typeface="monospace"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/calibrate_button_selector"
+                    android:textColor="@color/SecondaryTextColor"
+                    android:textSize="@dimen/text_scan_button_font_size"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Último scan: 1 Semana"
+                    android:layout_below="@id/runAntivirusNow"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/lastScanText"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/last_scan_font_size"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/animationProgressPanel"
+                android:visibility="invisible">
+
+                <TextView
+                    android:id="@+id/animationProgressPanelTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:text="Trying root privileges"
+                    android:textColor="@color/SecondaryTextColor"
+                    android:textSize="@dimen/text_anim_font_size"
+                    android:singleLine="true"/>
+
+                <ImageView
+                    android:id="@+id/animationProgressPanelIconImageView"
+                    android:layout_width="@dimen/icon_size"
+                    android:layout_height="@dimen/icon_size"
+                    android:layout_centerHorizontal="true"
+                    android:layout_above="@id/animationProgressPanelTextView"
+                    />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/animationProgressPanelTextView"
+                    android:visibility="visible">
+
+                    <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        >
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|center_horizontal">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:text="203"
+                                android:id="@+id/bottomScannedApp"
+                                android:textColor="@color/ProtectedRiskColor"
+                                android:textSize="@dimen/counters_font_size"
+                                android:layout_centerVertical="true"
+                                android:layout_centerHorizontal="true"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:text="@string/scaned_text"
+                                android:id="@+id/scannedText"
+                                android:textColor="#8C9398"
+                                android:textSize="@dimen/last_scan_font_size"
+                                android:layout_below="@+id/textView3"
+                                android:layout_alignLeft="@+id/textView3"
+                                android:layout_alignStart="@+id/textView3"/>
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        >
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|center_horizontal">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:text="20"
+                                android:id="@+id/bottomFoundMenacesCount"
+                                android:textColor="@color/HighRiskColor"
+                                android:textSize="@dimen/counters_font_size"
+                                android:layout_centerVertical="true"
+                                android:layout_centerHorizontal="true"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:text="@string/menacesText"
+                                android:id="@+id/menacesText"
+                                android:textColor="#8C9398"
+                                android:textSize="@dimen/last_scan_font_size"
+                                android:layout_centerVertical="true"
+                                android:layout_centerHorizontal="true"/>
+                        </LinearLayout>
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/noMenacesFoundPanel"
+                android:layout_centerInParent="true"
+                android:visibility="invisible">
+
+                <ImageView
+                    android:id="@+id/animationNoMenacesFoundPanelImageView"
+                    android:layout_width="@dimen/icon_size"
+                    android:layout_height="@dimen/icon_size"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/ok_100"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="No menaces found!"
+                    android:layout_below="@+id/animationNoMenacesFoundPanelImageView"
+                    android:textColor="#ffffffff"
+                    android:textSize="@dimen/counters_font_size"/>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

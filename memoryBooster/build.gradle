@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "geniuscloud.memory.booster"
-        minSdkVersion 9
+        minSdkVersion 11
         targetSdkVersion 24
     }
 
@@ -21,9 +21,13 @@ android {
 dependencies {
     compile project(':progressWheel')
     compile 'com.android.support:support-v4:24.1.1'
+    compile 'com.android.support:design:24.1.1'
     compile 'com.google.android.gms:play-services:9.0.0'
     compile 'com.android.support:appcompat-v7:24.1.1'
     compile files('libs/com.haarman.listviewanimations-2.5.2.jar')
     compile files('libs/libGoogleAnalyticsServices.jar')
     compile files('libs/nineoldandroids-2.4.0.jar')
+    compile 'com.liulishuo.magicprogresswidget:library:1.0.2'
+    compile 'com.github.jakob-grabner:Circle-Progress-View:1.2.8'
+    compile 'joda-time:joda-time:2.9.2'
 }

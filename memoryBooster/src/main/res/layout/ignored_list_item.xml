@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="5dp"
+              android:background="@color/SecondaryColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/SecondaryColor"
+        android:divider="@color/DividerColor"
+        android:showDividers="middle"
+        android:id="@+id/linearLayoutAdapter">
+
+        <ImageView
+            android:id="@+id/iconAppIgnored"
+            android:layout_width="@dimen/icon_ignoredList_size"
+            android:layout_height="@dimen/icon_ignoredList_size"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/ic_launcher"
+            android:layout_weight="0.03"
+            android:adjustViewBounds="false">
+        </ImageView>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:id="@+id/linearLayout"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/nameAppIgnored"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2dp"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="@color/info_icon_bottom_text"
+                android:textSize="@dimen/title_app_font_size"
+                android:textStyle="bold"
+                android:text="dfgdfgdfgdfg"
+                android:layout_marginLeft="5dp"/>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="5dp"
+              android:background="@color/SecondaryColor"
+                android:id="@+id/itemParent">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="@dimen/icon_ignoredList_size"
+            android:layout_height="@dimen/icon_ignoredList_size"
+            android:layout_marginRight="@dimen/test"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/ic_launcher">
+        </ImageView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/logo"
+            android:layout_centerVertical="true">
+            <TextView
+                android:id="@+id/Titlelabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2dp"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="@color/info_icon_bottom_text"
+                android:textSize="@dimen/title_app_font_size"
+                android:textStyle="bold"
+                android:text="Google traductor"/>
+
+            <TextView
+                android:id="@+id/qualityApp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="4dp"
+                android:singleLine="true"
+                android:textColor="#e21616"
+                android:textSize="@dimen/riskType_font_size"
+                android:text="Potencialmente dañina"
+                android:layout_below="@id/Titlelabel"
+                android:layout_alignLeft="@id/Titlelabel"/>
+        </RelativeLayout>
+
+       <TextView
+        android:id="@+id/goForward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="@color/info_icon_bottom_text"
+        android:textSize="@dimen/title_app_font_size"
+        android:textStyle="bold"
+        android:text=">"
+        android:layout_marginRight="5dp"/>
+</RelativeLayout>

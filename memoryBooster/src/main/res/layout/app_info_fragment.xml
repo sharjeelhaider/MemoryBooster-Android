@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/SecondaryColor"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:background="@color/color_BackgroundAnimationProgress"
+        android:layout_weight="0.30"
+        android:padding="@dimen/padding_app_info"
+        android:layout_gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/iconGeneral"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/ic_launcher"
+            android:layout_weight="0.25"
+            android:adjustViewBounds="false"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.75"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/titleApp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/title_app_info"
+                    android:textStyle="bold"
+                    android:text="Reparar bateria"
+                    android:layout_alignParentLeft="true"/>
+
+                <TextView
+                    android:id="@+id/warningLevel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#e21616"
+                    android:textSize="@dimen/riskType_app_info"
+                    android:textStyle="bold"
+                    android:text="Riesgo ALTO"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@id/titleApp"/>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:id ="@+id/buttonsAppContainer"
+                    android:visibility="visible"
+                    android:layout_below="@id/warningLevel">
+
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/trust"
+                        android:id="@+id/buttonTrust"
+                        android:layout_gravity="right"
+                        android:background="#00ffffff"
+                        android:textColor="#8C9398"
+                        android:textSize="@dimen/button_trust_font_size"/>
+
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/uninstall"
+                        android:id="@+id/buttonUninstall"
+                        android:layout_gravity="right"
+                        android:background="#00ffffff"
+                        android:textColor="#8C9398"
+                        android:textSize="@dimen/button_trust_font_size"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:gravity="end"
+                    android:id="@+id/buttonsConfigContainer"
+                    android:visibility="gone"
+                    android:layout_below="@id/warningLevel">
+
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/ignored_setting"
+                        android:id="@+id/buttonIgnoreConfig"
+                        android:layout_gravity="right"
+                        android:background="#00ffffff"
+                        android:textColor="#8C9398"
+                        android:textSize="@dimen/button_trust_font_size"/>
+
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/open_setting"
+                        android:id="@+id/buuttonOpenSettings"
+                        android:layout_gravity="right"
+                        android:background="#00ffffff"
+                        android:textColor="#8C9398"
+                        android:textSize="@dimen/button_trust_font_size"
+                        />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/listView"
+        android:layout_weight="0.75"
+        tools:listitem = "@layout/results_list_item"
+        android:padding="@dimen/padding_app_info"
+        android:nestedScrollingEnabled="false"
+        android:scrollbars="none"/>
+
+</LinearLayout>

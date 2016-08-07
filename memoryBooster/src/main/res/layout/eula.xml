@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="#4B4F5E"
+              android:gravity="center_vertical|center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/welcome_text"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/eula_font_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/eula_text"
+        android:id="@+id/textView2"
+        android:layout_marginBottom="100dp"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/eula_font_size"
+        android:gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="@dimen/eula_button_widht"
+        android:layout_height="@dimen/eula_button_height"
+        android:text="@string/accept_eula"
+        android:id="@+id/accept_eula_button"
+        android:background="@drawable/calibrate_button_selector"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/eula_font_size"/>
+
+    <Button
+        android:layout_width="@dimen/eula_button_widht"
+        android:layout_height="@dimen/eula_button_height"
+        android:text="@string/decline_eula"
+        android:id="@+id/decline_eula_button"
+        android:background="@drawable/decline_eula_button_selector"
+        android:textColor="#ffffff"
+        android:layout_marginTop="20dp"
+        android:textSize="@dimen/eula_font_size"/>
+</LinearLayout>

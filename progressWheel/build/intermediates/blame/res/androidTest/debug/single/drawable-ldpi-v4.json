@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\progressWheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
     }

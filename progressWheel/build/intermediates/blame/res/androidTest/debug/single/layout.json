@@ -8,6 +8,18 @@
         "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
     },
     {
+        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_spinner.xml",
+        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_spinner.xml"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_wheel_activity.xml",
+        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_wheel_activity.xml"
+    },
+    {
         "merged": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\progressWheel\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_wheel_activity.xml",
         "source": "F:\\MyWork\\MemoryBooster\\MemoryBooster\\progressWheel\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_wheel_activity.xml"
     }

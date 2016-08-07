@@ -1,0 +1,49 @@
+{
+  "data":
+[
+  {
+    "permissionName": "android.permission.ACCESS_FINE_LOCATION",
+    "dangerous": 1
+  },
+  {
+    "permissionName": "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+    "dangerous": 0
+  },
+  {
+    "permissionName": "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+    "dangerous": 0
+  },
+  {
+    "permissionName": "android.permission.SEND_SMS",
+    "dangerous": 1
+  },
+  {
+    "permissionName": "android.permission.READ_SMS",
+    "dangerous": 0
+  },
+  {
+    "permissionName": "android.permission.READ_PHONE_STATE",
+    "dangerous": 1
+  },
+  {
+    "permissionName": "android.permission-group.PHONE",
+    "dangerous": 1
+  },
+  {
+    "permissionName": "android.permission.RECORD_AUDIO",
+    "dangerous": 0
+  },
+  {
+    "permissionName": "android.permission.CALL_PHONE",
+    "dangerous": 1
+  },
+  {
+    "permissionName": "android.permission.PROCESS_OUTGOING_CALLS",
+    "dangerous": 1
+  },
+  {
+    "permissionName": "android.permission.CAMERA",
+    "dangerous": 0
+  }
+]
+}

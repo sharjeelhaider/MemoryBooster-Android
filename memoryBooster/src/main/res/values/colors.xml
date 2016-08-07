@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="popup_background">#edebdf</color> 
+	<color name="window_background">#000000</color>
+	<color name="view_background">#000000</color>
+	<color name="view_background_stroke">#09ec09</color>
+	<color name="text_color">#D6B869</color>
+	
+	<color name="futuristicbg">#B00E3821</color>
+	<color name="titlebg">#00FF00</color>
+	
+	<color name="dimmer">#80000000</color>
+
+
+	<color name="top_action_bar">#64ffda</color>
+	<color name="wave_widget_stroke">#35CB8E</color>
+	<color name="wave_widget_front_wave">#06AEA9</color>
+	<color name="wave_widget_back_wave">#148080</color>
+    <color name="wave_starting_wave_color">#213C3E</color>
+
+    <color name="top_part_backgrond_color">#252529</color>
+    <color name="bottom_part_background_color">#2B2B30</color>
+
+	<color name="info_icon_top_text">#D3D2D1</color>
+	<color name="info_icon_bottom_text">#726D6C</color>
+
+	<color name="actionbar_background">#22242B</color>
+	<color name="actionbar_text">#ffffff</color>
+	<color name="PrimaryTextColor">#726D6C</color>
+	<color name="SecondaryTextColor">#ffffff</color>
+	<color name="PrimaryColor">#22242B</color>
+	<color name="SecondaryColor">#D3D2D1</color>
+	<color name="DividerColor">#4B4F5E</color>
+	<color name="colorBackgroundScanInProgress">#3B3F4D</color>
+	<color name="color_BackgroundAnimationProgress">#4B4F5E</color>
+
+	<color name="HighRiskColor">#E74C3C</color>
+	<color name="MediumRiskColor">#FF933C</color>
+	<color name="ProtectedRiskColor">#71B867</color>
+
+	<color name="fix_screen_bottom_color">#ffffffff</color>
+	<color name="fix_screen_progressbar_rim_bg_color">#ffffffff</color>
+	<color name="fix_screen_progressbar_rim_fg_color">#ff00acc1</color>
+	<color name="fix_screen_top_color">#ffe91e63</color>
+</resources>

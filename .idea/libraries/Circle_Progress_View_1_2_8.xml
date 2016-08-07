@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Circle-Progress-View-1.2.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/memoryBooster/build/intermediates/exploded-aar/com.github.jakob-grabner/Circle-Progress-View/1.2.8/res" />
+      <root url="jar://$PROJECT_DIR$/memoryBooster/build/intermediates/exploded-aar/com.github.jakob-grabner/Circle-Progress-View/1.2.8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jakob-grabner/Circle-Progress-View/1.2.8/a1c1dee8fbd348857046c4f570524665cd8b985d/Circle-Progress-View-1.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

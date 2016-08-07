@@ -19,4 +19,93 @@
     <string name="admob_publisher_id">ca-app-pub-1830103045494993/7124556468</string>
     <string name="interistitial_id">ca-app-pub-1830103045494993/8601289663</string>
 
+
+    <string name="interstitial_ad_unit" translatable="false">ca-app-pub-3912218987594825/4525835590</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-3912218987594825/9095635994</string>
+
+    <string name="app_name">AMS Antivirus</string>
+    <string name="no_inet_no_app">AMS Antivirus needs a data connection to operate. Please enable Wifi or 3G and try again.</string>
+    <string name="quit_app">Quit</string>
+    <string name="information">Information</string>
+    <string name="vote">Rate Us!</string>
+   <string name="gplay_vote">We have worked really hard to bring this free software to you.
+\n\nWe would be really happy if you could rate us 5 stars and add a nice comment at google play.
+\n\nWould you like to do it now?</string>
+    <string name="threats_found">#1 Problems found</string>
+    <string name="menaces_unresolved">#1 Problems</string>
+    <string name="title_ads">Ads Displayed</string>
+    <string name="ads_message">Displays ads while in use, including banners, pop-ups, and other graphics. The ads are common in free apps.</string>
+    <string name="title_permission">Personal data shared</string>
+    <string name="title_installedGPlay">Unknown sources</string>
+    <string name="installedGPlay_message">Installing apps from unknown sources can lead to malware. Go to Settings>Security and then disable Unknown Sources.</string>
+    <string name="read_phone_message">This app collects and sends SIM card details, including address book, mobile PIN, and call history. This can add charges to data plan and is a HIGH privacy risk.</string>
+    <string name="call_phone_message">This app can initiate a phone call without going through the Dialer user interface for the user to confirm the call. This can add charges to data plan and is a HIGH privacy risk.</string>
+    <string name="outgoing_phone_message">This app can see the number being dialed during an outgoing call with the option to redirect the call to a different number or abort the call altogether. This can add charges to data plan and is a HIGH privacy risk.</string>
+    <string name="send_sms_message">This application can send SMS. This can add charges to data plan and is a HIGH privacy risk.</string>
+    <string name="record_audio_message">This application can record audio and is a risk for your privacy.</string>
+    <string name="camera_message">This application can access the camera device and is a risk for your privacy.</string>
+    <string name="write_sms_message">This application can write SMS. This can add charges to data plan and is a MEDIUM privacy risk.</string>
+    <string name="access_fine_message">This application can access its exact position and is a risk for your privacy.</string>
+    <string name="read_sms_message">This application can read your private SMS and is a risk for your privacy.</string>
+    <string name="read_history_message">This application can read your history bookmarks and is a risk for your privacy.</string>
+    <string name="write_history_message">This application can write your history bookmarks and is a risk for your privacy.</string>
+    <string name="warning">Warning</string>
+    <string name="dialog_message_no_app_selected">Please select at least one application to uninstall.</string>
+    <string name="yes">yes</string>
+    <string name="dialog_message_exit">Are you sure exit?</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="trust">Trust</string>
+    <string name="resolve_problems">Resolve problems</string>
+    <string name="dialog_trust_app">You want to trust this application?</string>
+    <string name="accept_eula">Accept</string>
+    <string name="decline_eula">Decline</string>
+    <string name="remove_ignored_app_message">Do you want to remove from the list </string>
+    <string name="cancel">Cancel</string>
+    <string name="ignored_counter">#1 Apps ignored</string>
+    <string name="igonred_message_dialog">No applications in ignore list</string>
+    <string name="show_ignored_list_menu">Show ignored list</string>
+    <string name="scanningText">Scanning...</string>
+    <string name="execute_first_analysis">Run first analysis to check threats</string>
+    <string name="are_protected">You are protected</string>
+    <string name="high_risk">High Risk</string>
+    <string name="medium_risk">Medium Risk</string>
+    <string name="trusted_by_app">is a trusted application verified by AMS Antivirus.</string>
+    <string name="trusted_by_user">Medium Risk</string>
+    <string name="trusted_message">is a trusted application.</string>
+    <string name="has_been_scanned">has problems.</string>
+    <string name="is_secure">is safe to open.</string>
+    <string name="has_no_threats">is safe to open.</string>
+    <string name="enter_to_solve_problems">Problems found, click to resolve...</string>
+    <string name="eula_text">We use device identifiers to personalice content and ads, to provide social media features and to analyse our traffic. We also share such identifiers and other information from your device with our social media, advertising and analytics partners.</string>
+    <string name="usb_message">Enabling USB debugging is not recommended unless you use your device for software development purposes. Tap Open Settings and disable USB debugging to protect your device.</string>
+    <string name="unknownApp_message">Installing apps from unknown sources can lead to malware. Tap Open Settings and then disable Unknown Sources.</string>
+    <string name="usb_title">Unsecure Setting</string>
+    <string name="open_setting">Open settings</string>
+    <string name="ignored_setting">Ignore setting</string>
+    <string name="system_app_usb_menace_title">USB Debugging Enabled</string>
+    <string name="system_app_unknown_app_menace_title">Unknown Sources Enabled</string>
+    <string name="usb_add_whitelist_message">Do you want to add USB Debugging to white list?</string>
+    <string name="usb_remove_whitelist_message">Do you want to remove USB Debugging from white list?</string>
+    <string name="unknownApp_add_whitelist_message">Do you want to add Unknown Sources to white list?</string>
+    <string name="unknownApp_remove_whitelist_message">Do you want to remove Unknown Sources from white list?</string>
+    <string name="applications_header_text">Applications</string>
+    <string name="system_header_text">System</string>
+    <string name="last_scanned">Last scan: #1</string>
+    <string name="never">Never</string>
+    <string name="install_application">You are one step away from cleaning any malicious threats found in your device. We have put a lot of time to create this application. Please, install one of our FREE applications to let you continue and support us. You will contribute in making this great application even better.</string>
+    <string name="scaned_text">Scanned</string>
+    <string name="menacesText">Problems</string>
+    <string name="welcome_text">Welcome to AMS Antivirus</string>
+    <string name="phone_data_shared">Phone data shared</string>
+    <string name="location_shared">Location shared</string>
+    <string name="read_your_sms">Can read your SMS</string>
+    <string name="write_sms_title">Can write SMS</string>
+    <string name="send_sms_title">Can send SMS</string>
+    <string name="read_history_bookmark_title">Can read  your history</string>
+    <string name="write_history_bookmark_title">Can write your history</string>
+    <string name="can_make_call_title">Can make calls</string>
+    <string name="outgoing_calls_title">Can control outgoing calls</string>
+    <string name="record_audio_title">Can record audio</string>
+    <string name="access_camera_title">Can access camera</string>
+
 </resources>

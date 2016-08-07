@@ -1,0 +1,52 @@
+{
+  "data": [
+	{
+	  "packageName": "com.startapp.*"
+	},
+	{
+	  "packageName": "com.millennialmedia.*"
+	},
+	{
+	  "packageName": "com.revmob.*"
+	},
+	{
+	  "packageName": "com.chartboost.*"
+	},
+	{
+	  "packageName": "com.apptracker.android.module.AppModuleActivity"
+	},
+	{
+	  "packageName": "com.ironsource.*"
+	},
+	{
+	  "packageName": "com.tapjoy.*"
+	},
+	{
+	  "packageName": "com.unity3d.ads.android.*"
+	},
+	{
+	  "packageName": "com.jirbo.adcolony.*"
+	},
+	{
+	  "packageName": "com.facebook.ads.*"
+	},
+	{
+	  "packageName": "com.inmobi.*"
+	},
+	{
+	  "packageName": "com.google.android.gms.ads.*"
+	},
+	{
+	  "packageName": "com.tremorvideo.*"
+	},
+	{
+	  "packageName": "com.adfonic.*"
+	},
+	{
+	  "packageName": "com.modfox.*"
+	},
+	{
+	  "packageName": "com.mobclix.*"
+	}
+  ]
+}
