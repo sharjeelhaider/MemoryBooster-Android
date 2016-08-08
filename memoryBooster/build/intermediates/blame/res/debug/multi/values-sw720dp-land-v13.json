@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

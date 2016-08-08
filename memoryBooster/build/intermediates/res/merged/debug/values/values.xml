@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="my_tab_array">
+        <item>@string/tab1</item>
+        <item>@string/tab2</item>
+        <item>@string/tab3</item>
+
+    </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -46,7 +52,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="colorAccent">#929497</color>
     <color name="colorBackgroundScanInProgress">#3B3F4D</color>
+    <color name="colorPrimary">#FF1687aa</color>
+    <color name="colorPrimaryDark">#FF106e8b</color>
     <color name="color_BackgroundAnimationProgress">#4B4F5E</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
@@ -137,6 +146,7 @@
     <color name="titlebg">#00FF00</color>
     <color name="top_action_bar">#64ffda</color>
     <color name="top_part_backgrond_color">#252529</color>
+    <color name="transparent">#00000000</color>
     <color name="view_background">#000000</color>
     <color name="view_background_stroke">#09ec09</color>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
@@ -156,6 +166,7 @@
     <color name="wave_widget_back_wave">#148080</color>
     <color name="wave_widget_front_wave">#06AEA9</color>
     <color name="wave_widget_stroke">#35CB8E</color>
+    <color name="white">#FFFFFF</color>
     <color name="window_background">#000000</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
@@ -777,6 +788,9 @@
     <string name="system_app_unknown_app_menace_title">Unknown Sources Enabled</string>
     <string name="system_app_usb_menace_title">USB Debugging Enabled</string>
     <string name="system_header_text">System</string>
+    <string name="tab1">Boost</string>
+    <string name="tab2">Clean</string>
+    <string name="tab3">Antivirus</string>
     <string name="tagmanager_preview_dialog_button">Continue</string>
     <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
     <string name="tagmanager_preview_dialog_title">Preview</string>
@@ -839,9 +853,24 @@
             backward-compatibility can go here.
         -->
     </style>
-    <style name="AppTheme" parent="AppBaseTheme">
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textAllCaps">false</item>
+
+
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textAllCaps">false</item>
+
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>
@@ -1879,6 +1908,12 @@
         <item name="android:popupBackground">@drawable/menu_dropdown_panel_easyrambooster</item>
         <item name="android:dropDownSelector">@drawable/selectable_background_easyrambooster</item>
     </style>
+    <style name="MIP_theme" parent="AppTheme">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
     <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
 
         <item name="android:background">@color/actionbar_background</item>
@@ -2053,6 +2088,20 @@
     <style name="RtlUnderlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton">
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
+    </style>
+    <style name="TabLayoutStyle" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/transparent</item>
+        <item name="tabIndicatorHeight">0dp</item>
+        <item name="tabPaddingStart">8dp</item>
+        <item name="tabPaddingEnd">8dp</item>
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabTextAppearance">@style/TabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/colorPrimary</item>
+    </style>
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="textAllCaps">false</item>
     </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>

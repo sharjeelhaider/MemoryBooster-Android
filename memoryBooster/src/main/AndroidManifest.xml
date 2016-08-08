@@ -21,10 +21,11 @@
         android:label="@string/application_name"
         android:logo="@drawable/ic_launcher"
         tools:replace="android:theme"
-        android:theme="@style/Theme.Easyrambooster" >
+        android:theme="@style/AppTheme" >
         <activity
             android:name="com.raihanbd.easyrambooster.MainActivity"
-            android:label="@string/application_name" >
+            android:label="@string/application_name"
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

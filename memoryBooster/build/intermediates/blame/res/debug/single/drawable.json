@@ -1,386 +1,386 @@
 [
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\shield_medium_risk_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\shield_medium_risk_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_easyrambooster.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\progress_horizontal_easyrambooster.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_easyrambooster.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\spinner_background_ab_easyrambooster.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\fine_location_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\fine_location_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\gear.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\gear.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\cancel.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\send_sms.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\send_sms.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_easyrambooster.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\tab_indicator_ab_easyrambooster.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boost_hvr.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\button_boost_hvr.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\send_sms.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\send_sms.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\gear.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\gear.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\killbtn_hv.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\killbtn_hv.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boost_sel.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\button_boost_sel.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\read_sms.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\read_sms.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\privacy_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\privacy_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_easyrambooster.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\btn_cab_done_easyrambooster.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\history_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\history_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boost_norm.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\button_boost_norm.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\adware_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\adware_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\card_background.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btnhv.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\search_btnhv.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\usb_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\usb_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\iconsplash.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\iconsplash.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boost_norm.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\button_boost_norm.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\dialog_bg.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\dialog_bg.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\resolve_button_selector.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\resolve_button_selector.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_easyrambooster.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\spinner_background_ab_easyrambooster.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_100.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\ok_100.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\killbtn_norm.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\killbtn_norm.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\calibrate_button_selector.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\calibrate_button_selector.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_easyrambooster.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\tab_indicator_ab_easyrambooster.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_easyrambooster.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\btn_cab_done_easyrambooster.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\killbtn_sel.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\killbtn_sel.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_100.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\ok_100.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\calibrate_button_selector.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\calibrate_button_selector.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\shield_medium_risk_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\shield_medium_risk_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\usb_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\usb_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_sel.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\search_btn_sel.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\killbtn_norm.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\killbtn_norm.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\serach_btnorm.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\serach_btnorm.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\history_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\history_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_easyrambooster.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\selectable_background_easyrambooster.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\killbtn_sel.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\killbtn_sel.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_textured_easyrambooster.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\ab_background_textured_easyrambooster.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\serach_btnorm.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\serach_btnorm.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\record_audio_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\record_audio_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\shield_high_risk_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\shield_high_risk_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\decline_eula_button_selector.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\decline_eula_button_selector.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\camera_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\resolve_button_medium_risk.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\resolve_button_medium_risk.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\resolve_button_selector.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\resolve_button_selector.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\phone_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\shield_high_risk_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\shield_high_risk_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\information.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\read_sms.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\read_sms.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\record_audio_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\record_audio_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\adware_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\adware_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_easyrambooster.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\progress_horizontal_easyrambooster.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\card_background.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boost_sel.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\button_boost_sel.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\resolve_button_medium_risk.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\resolve_button_medium_risk.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boost_hvr.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\button_boost_hvr.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\iconsplash.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\iconsplash.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\information.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\camera_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\privacy_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\privacy_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_titlebg.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\dialog_titlebg.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\cancel.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\killbtn_hv.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\killbtn_hv.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\phone_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_titlebg.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\dialog_titlebg.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\fine_location_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\fine_location_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_textured_easyrambooster.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\ab_background_textured_easyrambooster.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btnhv.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\search_btnhv.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\shield_protected_icon.png",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\shield_protected_icon.png"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\decline_eula_button_selector.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\decline_eula_button_selector.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_easyrambooster.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\selectable_background_easyrambooster.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_sel.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\search_btn_sel.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\shield_protected_icon.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable\\shield_protected_icon.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 533
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 819
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 970
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1246
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -95,7 +95,7 @@
                     "endOffset": 1317
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -114,7 +114,7 @@
                     "endOffset": 1400
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -134,7 +134,7 @@
                     "endOffset": 1810
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -155,7 +155,7 @@
                     "endOffset": 2232
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -175,7 +175,7 @@
                     "endOffset": 2352
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -194,7 +194,7 @@
                     "endOffset": 2415
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -214,7 +214,7 @@
                     "endOffset": 2569
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -234,7 +234,7 @@
                     "endOffset": 2632
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -253,7 +253,7 @@
                     "endOffset": 2764
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -273,7 +273,7 @@
                     "endOffset": 3903
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -294,7 +294,7 @@
                     "endOffset": 4175
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-v14\\styles_easyrambooster.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,

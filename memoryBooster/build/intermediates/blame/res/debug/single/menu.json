@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\menu\\menu_layout.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\menu\\menu_layout.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\menu\\main.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\menu\\menu_layout.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\menu\\menu_layout.xml"
     }
 ]

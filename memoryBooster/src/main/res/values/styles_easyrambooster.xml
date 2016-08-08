@@ -19,6 +19,8 @@
 
 <resources>
 
+
+
     <style name="Theme.Easyrambooster" parent="@style/Theme.AppCompat.Light.DarkActionBar">
         <item name="actionBarItemBackground">@drawable/selectable_background_easyrambooster</item>
         <item name="popupMenuStyle">@style/PopupMenu.Easyrambooster</item>

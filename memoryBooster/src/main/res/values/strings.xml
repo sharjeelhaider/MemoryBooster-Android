@@ -108,4 +108,15 @@
     <string name="record_audio_title">Can record audio</string>
     <string name="access_camera_title">Can access camera</string>
 
+
+    <string name="tab1">Boost</string>
+    <string name="tab2">Clean</string>
+    <string name="tab3">Antivirus</string>
+
+    <string-array name="my_tab_array">
+        <item>@string/tab1</item>
+        <item>@string/tab2</item>
+        <item>@string/tab3</item>
+
+    </string-array>
 </resources>

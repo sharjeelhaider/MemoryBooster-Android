@@ -1,6 +1,7 @@
 package com.raihanbd.easyrambooster;
 
 import android.os.Bundle;
+import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.WindowCompat;
@@ -8,30 +9,47 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBar.Tab;
 import android.support.v7.app.ActionBar.TabListener;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+import android.util.TypedValue;
+
 import geniuscloud.memory.booster.R;
 
-public class MainActivity extends ActionBarActivity implements TabListener {
+public class MainActivity extends AppCompatActivity {
 
 	private ActionBar bar = null;
 	private ViewPager pager = null;
 	private MemoryBoosterAdapter pagerAdapter = null;
+	private TabLayout tabLayout;
+	Toolbar toolbar;
 
+	private String[] title;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		supportRequestWindowFeature(WindowCompat.FEATURE_ACTION_BAR);// For Actionbar Compat
+//		supportRequestWindowFeature(WindowCompat.FEATURE_ACTION_BAR);// For Actionbar Compat
 		setContentView(R.layout.activity_main);
+		title = getResources().getStringArray(R.array.my_tab_array);
 
+		toolbar = (Toolbar) findViewById(R.id.toolbar);
+		setSupportActionBar(toolbar);
+		tabLayout = (TabLayout) findViewById(R.id.tabs);
+
+		pager = (ViewPager) findViewById(R.id.pager);
+
+		/*final int pageMargin = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 4,
+				getResources().getDisplayMetrics());
+
+		this.pager.setPageMargin(pageMargin);
+		this.pager.setOffscreenPageLimit(1);*/
 		/**
 		 * Initialize ViewPager and adapter
 		 */
-		this.pager = (ViewPager) findViewById(R.id.pager);
-		this.pagerAdapter = new MemoryBoosterAdapter(
-				getSupportFragmentManager());
-		this.pager.setAdapter(pagerAdapter);
-
+		pagerAdapter = new MemoryBoosterAdapter(getSupportFragmentManager(),title);
+		pager.setAdapter(pagerAdapter);
+		tabLayout.setupWithViewPager(pager);
 		// Initialize actionbar and tab
-		bar = getSupportActionBar();
+		/*bar = getSupportActionBar();
 		bar.setDisplayHomeAsUpEnabled(false);
 		bar.addTab(bar.newTab().setText("Boost").setTabListener(this));
 		bar.addTab(bar.newTab().setText("Tasks").setTabListener(this));
@@ -55,7 +73,7 @@ public class MainActivity extends ActionBarActivity implements TabListener {
 			public void onPageScrollStateChanged(int pos) {
 
 			}
-		});
+		});*/
 	}
 
 	@Override
@@ -68,7 +86,7 @@ public class MainActivity extends ActionBarActivity implements TabListener {
 		super.onStop();
 	}
 
-	// tab listener
+	/*// tab listener
 	@Override
 	public void onTabReselected(Tab arg0, FragmentTransaction arg1) {
 
@@ -82,6 +100,6 @@ public class MainActivity extends ActionBarActivity implements TabListener {
 	@Override
 	public void onTabUnselected(Tab arg0, FragmentTransaction arg1) {
 
-	}
+	}*/
 
 }

@@ -2,10 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="geniuscloud.memory.booster"
     android:versionCode="100"
-    android:versionName="INSTANT_RUN" >
+    android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="11"
+        android:minSdkVersion="14"
         android:targetSdkVersion="24" />
 
     <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
@@ -34,10 +34,11 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/application_name"
         android:logo="@drawable/ic_launcher"
-        android:theme="@style/Theme.Easyrambooster" >
+        android:theme="@style/AppTheme" >
         <activity
             android:name="com.raihanbd.easyrambooster.MainActivity"
-            android:label="@string/application_name" >
+            android:label="@string/application_name"
+            android:theme="@style/AppTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

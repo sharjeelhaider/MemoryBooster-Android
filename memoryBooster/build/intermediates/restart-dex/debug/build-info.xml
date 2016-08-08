@@ -1,36 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi,armeabi-v7a"
-    api-level="21"
+    api-level="23"
     density="xxhdpi"
     format="8"
-    timestamp="22667784679580"
-    token="7411359144121105722"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="8019185706801"
+    token="6800088919134146744"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="4841" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1508" />
+        duration="0" />
     <task
         name="verifier"
-        duration="250" />
+        duration="0" />
 
     <artifact
-        location="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
-        type="MAIN" />
+        location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="22667784679580"
+        timestamp="7114299809298"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
+            location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="7918120607447"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="8019185706801"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+	<color name="colorPrimary">#FF1687aa</color>
+	<color name="colorPrimaryDark">#FF106e8b</color>
+	<color name="colorAccent">#929497</color>
+	<color name="transparent">#00000000</color>
+	<color name="white">#FFFFFF</color>
+
+
 	<color name="popup_background">#edebdf</color> 
 	<color name="window_background">#000000</color>
 	<color name="view_background">#000000</color>

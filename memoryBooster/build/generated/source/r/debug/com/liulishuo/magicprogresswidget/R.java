@@ -18,9 +18,9 @@ public final class R {
 		public static final int mpc_stroke_width = 0x7f010122;
 	}
 	public static final class color {
-		public static final int mpc_default_color = 0x7f0b0058;
-		public static final int mpc_end_color = 0x7f0b0059;
-		public static final int mpc_start_color = 0x7f0b005a;
+		public static final int mpc_default_color = 0x7f0c005b;
+		public static final int mpc_end_color = 0x7f0c005c;
+		public static final int mpc_start_color = 0x7f0c005d;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f060053;

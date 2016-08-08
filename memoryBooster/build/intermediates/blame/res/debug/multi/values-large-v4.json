@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+        "outputFile": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 180
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 251
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 321
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 459
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 527
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,13 +144,13 @@
                     "endOffset": 589
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 496,
+                        "startOffset": 509,
                         "endColumn": 61,
-                        "endOffset": 553
+                        "endOffset": 566
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 650
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 73,
+                        "startOffset": 78,
                         "endColumn": 60,
-                        "endOffset": 129
+                        "endOffset": 134
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 700
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 184,
+                        "startOffset": 191,
                         "endColumn": 49,
-                        "endOffset": 229
+                        "endOffset": 236
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 750
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 134,
+                        "startOffset": 140,
                         "endColumn": 49,
-                        "endOffset": 179
+                        "endOffset": 185
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1330,
+                        "startOffset": 1359,
                         "endColumn": 53,
-                        "endOffset": 1379
+                        "endOffset": 1408
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 855
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1279,
+                        "startOffset": 1307,
                         "endColumn": 50,
-                        "endOffset": 1325
+                        "endOffset": 1353
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 906
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1228,
+                        "startOffset": 1255,
                         "endColumn": 50,
-                        "endOffset": 1274
+                        "endOffset": 1301
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 968
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 434,
+                        "startOffset": 446,
                         "endColumn": 61,
-                        "endOffset": 491
+                        "endOffset": 503
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1018
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 343,
+                        "startOffset": 353,
                         "endColumn": 49,
-                        "endOffset": 388
+                        "endOffset": 398
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1068
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 608,
+                        "startOffset": 623,
                         "endColumn": 49,
-                        "endOffset": 653
+                        "endOffset": 668
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1118
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 558,
+                        "startOffset": 572,
                         "endColumn": 49,
-                        "endOffset": 603
+                        "endOffset": 617
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1164
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 658,
+                        "startOffset": 674,
                         "endColumn": 45,
-                        "endOffset": 699
+                        "endOffset": 715
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1217
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 979,
+                        "startOffset": 1001,
                         "endColumn": 52,
-                        "endOffset": 1027
+                        "endOffset": 1049
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1258
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 393,
+                        "startOffset": 404,
                         "endColumn": 40,
-                        "endOffset": 429
+                        "endOffset": 440
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1315
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 754,
+                        "startOffset": 772,
                         "endColumn": 56,
-                        "endOffset": 806
+                        "endOffset": 824
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1366
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1469,
+                        "startOffset": 1501,
                         "endColumn": 50,
-                        "endOffset": 1515
+                        "endOffset": 1547
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1420
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 19,
+                        "startOffset": 23,
                         "endColumn": 53,
-                        "endOffset": 68
+                        "endOffset": 72
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1468
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1384,
+                        "startOffset": 1414,
                         "endColumn": 47,
-                        "endOffset": 1427
+                        "endOffset": 1457
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 1526
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 921,
+                        "startOffset": 942,
                         "endColumn": 57,
-                        "endOffset": 974
+                        "endOffset": 995
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 1581
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 866,
+                        "startOffset": 886,
                         "endColumn": 54,
-                        "endOffset": 916
+                        "endOffset": 936
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 1636
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 811,
+                        "startOffset": 830,
                         "endColumn": 54,
-                        "endOffset": 861
+                        "endOffset": 880
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 1685
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1179,
+                        "startOffset": 1205,
                         "endColumn": 48,
-                        "endOffset": 1223
+                        "endOffset": 1249
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 1735
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1032,
+                        "startOffset": 1055,
                         "endColumn": 49,
-                        "endOffset": 1077
+                        "endOffset": 1100
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 1785
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 704,
+                        "startOffset": 721,
                         "endColumn": 49,
-                        "endOffset": 749
+                        "endOffset": 766
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 1822
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1432,
+                        "startOffset": 1463,
                         "endColumn": 36,
-                        "endOffset": 1464
+                        "endOffset": 1495
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 1873
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 292,
+                        "startOffset": 301,
                         "endColumn": 50,
-                        "endOffset": 338
+                        "endOffset": 347
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 1931
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 234,
+                        "startOffset": 242,
                         "endColumn": 57,
-                        "endOffset": 287
+                        "endOffset": 295
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 1982
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1082,
+                        "startOffset": 1106,
                         "endColumn": 50,
-                        "endOffset": 1128
+                        "endOffset": 1152
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 2028
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\values-large\\dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1133,
+                        "startOffset": 1158,
                         "endColumn": 45,
-                        "endOffset": 1174
+                        "endOffset": 1199
                     }
                 }
             },
@@ -695,7 +695,7 @@
                     "endOffset": 2132
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 2248
                 },
                 "from": {
-                    "file": "F:\\Sharjeel'sWork\\FreelancingWorkspace\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-large-v4\\values-large-v4.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,

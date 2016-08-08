@@ -1,7 +1,7 @@
-#Wed Aug 03 16:06:51 PKT 2016
-base.0=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_68291d25625842c92a16abc7225f47f528c3a486
+#Mon Aug 08 10:58:05 PKT 2016
+base.0=F\:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6b0216e6bb726f776fcc2b4e902d96ff94b9b642
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91926d89e435342db8b495482f856c27b76e43ca\\classes.dex
-base.1=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91926d89e435342db8b495482f856c27b76e43ca
-file.0=F\:\\MyWork\\MemoryBooster\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_68291d25625842c92a16abc7225f47f528c3a486\\classes.dex
+file.1=F\:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_45a7dcfda2af666e78c396be86c261db0f357896\\classes.dex
+base.1=F\:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_45a7dcfda2af666e78c396be86c261db0f357896
+file.0=F\:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6b0216e6bb726f776fcc2b4e902d96ff94b9b642\\classes.dex

@@ -1,13 +1,18 @@
 package com.raihanbd.easyrambooster;
 
+import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
 public class MemoryBoosterAdapter extends FragmentStatePagerAdapter {
 
-	public MemoryBoosterAdapter(FragmentManager fm) {
+	private String[] title;
+	private static final String ARG_PARAM1 = "param1";
+
+	public MemoryBoosterAdapter(FragmentManager fm, String[] title) {
 		super(fm);
+		this.title = title;
 	}
 
 	@Override
@@ -24,12 +29,20 @@ public class MemoryBoosterAdapter extends FragmentStatePagerAdapter {
 		if (index == 2) {
 			frag = new MoreFragments();
 		}
+		Bundle args = new Bundle();
+		args.putString(ARG_PARAM1, title[index]);
+		frag.setArguments(args);
 		return frag;
 	}
 
 	@Override
 	public int getCount() {
 		return 3;
+	}
+
+	@Override
+	public CharSequence getPageTitle(int position) {
+		return title[position];
 	}
 
 }

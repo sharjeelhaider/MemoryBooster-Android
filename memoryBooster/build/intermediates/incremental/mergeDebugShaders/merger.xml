@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Sharjeel&apos;sWork\FreelancingWorkspace\MemoryBooster\memoryBooster\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\Sharjeel&apos;sWork\FreelancingWorkspace\MemoryBooster\memoryBooster\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\debug\shaders"/></dataSet></merger>
