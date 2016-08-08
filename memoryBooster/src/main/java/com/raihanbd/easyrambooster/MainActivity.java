@@ -1,5 +1,7 @@
 package com.raihanbd.easyrambooster;
 
+import android.graphics.Color;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentTransaction;
@@ -55,13 +57,24 @@ public class MainActivity extends AppCompatActivity {
 		bar.addTab(bar.newTab().setText("Tasks").setTabListener(this));
 		bar.addTab(bar.newTab().setText("More").setTabListener(this));
 		bar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);// Set Actionbar Navigation Mode to Tab Mode
-
+*/
 		// ViewPager Page Scrolling Listener
 		pager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
 
 			@Override
 			public void onPageSelected(int pos) {
-				bar.setSelectedNavigationItem(pos);
+				if (pos==2){
+					toolbar.setBackgroundColor(Color.parseColor("#F9DC5C"));
+					tabLayout.setBackgroundColor(Color.parseColor("#F9DC5C"));
+					if (Build.VERSION.SDK_INT >= 21)
+					getWindow().setStatusBarColor(Color.parseColor("#F9DC5C"));
+				}else{
+					toolbar.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
+					tabLayout.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
+					if (Build.VERSION.SDK_INT >= 21)
+						getWindow().setStatusBarColor(getResources().getColor(R.color.colorPrimary));
+				}
+
 			}
 
 			@Override
@@ -73,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 			public void onPageScrollStateChanged(int pos) {
 
 			}
-		});*/
+		});
 	}
 
 	@Override
