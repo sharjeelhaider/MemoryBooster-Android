@@ -146,7 +146,7 @@ public class MainFragment extends Fragment
                     return;
                 }
 
-                getMainActivity().getMenu().setGroupVisible(0,false);
+//                getMainActivity().getMenu().setGroupVisible(0,false);
                 _scanFileSystem();
 
             }

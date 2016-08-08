@@ -225,10 +225,10 @@ public class AntivirusActivity extends AppCompatActivity implements MonitorShiel
 	    setContentView(R.layout.anti_activity_main);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
-        getSupportActionBar();
+        /*getSupportActionBar();
 
 		android.support.v7.app.ActionBar bar=getSupportActionBar();
-        bar.setDisplayHomeAsUpEnabled(true);
+        bar.setDisplayHomeAsUpEnabled(true);*/
 
 
         //Configure Ads
@@ -260,7 +260,7 @@ public class AntivirusActivity extends AppCompatActivity implements MonitorShiel
     {
         switch (item.getItemId())
         {
-            case android.R.id.home:
+            /*case android.R.id.home:
                 _handleBackButton();
                 return true;
             case R.id.ignoredListButton:
@@ -271,7 +271,7 @@ public class AntivirusActivity extends AppCompatActivity implements MonitorShiel
             case R.id.RateUs:
                 _showVoteUs();
                 //Log.d("ign", "RATE US BUTTON MENU");
-            return true;
+            return true;*/
 
             default:
                 return super.onOptionsItemSelected(item);

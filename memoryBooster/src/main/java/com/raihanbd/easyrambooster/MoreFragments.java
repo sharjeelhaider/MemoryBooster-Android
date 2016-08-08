@@ -2,6 +2,8 @@ package com.raihanbd.easyrambooster;
 
 import geniuscloud.memory.booster.R;
 import java.io.File;
+
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
@@ -11,6 +13,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.raihanbd.easyrambooster.antivirus.AntivirusActivity;
+import com.raihanbd.easyrambooster.antivirus.AppData;
+import com.raihanbd.easyrambooster.antivirus.EulaActivity;
 import com.todddavies.components.progressbar.ProgressWheel;
 
 public class MoreFragments extends Fragment {
@@ -41,6 +47,37 @@ public class MoreFragments extends Fragment {
 		txtExAvail = (TextView) v.findViewById(R.id.txtAvailExternalMemory);
 		txtExFree = (TextView) v.findViewById(R.id.txtFreeExternalMemory);
 
+		pw.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				final AppData appData = AppData.getInstance(getActivity());
+
+				Thread timerThread = new Thread(){
+					public void run(){
+						try{
+							sleep(500);
+						}catch(InterruptedException e){
+							e.printStackTrace();
+						}finally{
+
+							if(appData.getEulaAccepted())
+							{
+								Intent intent = new Intent(getActivity(),AntivirusActivity.class);
+								startActivity(intent);
+							}else
+							{
+								Intent intent = new Intent(getActivity(),EulaActivity.class);
+								intent.setFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
+								startActivity(intent);
+							}
+
+						}
+					}
+				};
+				timerThread.start();
+
+			}
+		});
 		return v;
 	}
 

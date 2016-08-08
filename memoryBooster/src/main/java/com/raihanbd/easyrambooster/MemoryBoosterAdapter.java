@@ -5,6 +5,8 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
+import com.raihanbd.easyrambooster.antivirus.AntivirusFragment;
+
 public class MemoryBoosterAdapter extends FragmentStatePagerAdapter {
 
 	private String[] title;
