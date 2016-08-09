@@ -4,33 +4,46 @@
     api-level="21"
     density="xxhdpi"
     format="8"
-    timestamp="97522648267415"
+    timestamp="15882474823716"
     token="6800088919134146744"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="3054" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1361" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1047" />
     <task
         name="verifier"
-        duration="0" />
+        duration="25" />
 
     <artifact
-        location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
-        type="MAIN" />
+        location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="97522648267415"
+        timestamp="15611427897124"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="15882474823716"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

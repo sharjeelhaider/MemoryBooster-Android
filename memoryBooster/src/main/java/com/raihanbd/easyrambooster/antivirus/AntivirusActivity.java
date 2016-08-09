@@ -7,6 +7,8 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.ServiceConnection;
 import android.content.pm.PackageInfo;
+import android.graphics.Color;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
@@ -14,6 +16,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -214,16 +217,21 @@ public class AntivirusActivity extends AppCompatActivity implements MonitorShiel
         //Log.d(_logTag,"OOOOOOOOOOOOOOOOOOO> "+"AntivirusActivity:getAppData: Usando app data");
         return AppData.getInstance(this);
     }
-	
-	public void onCreate(Bundle paramBundle)
+    Toolbar toolbar;
+
+    public void onCreate(Bundle paramBundle)
     {
 		//Log.i(_logTag, "============= ONCREATE HAS BEEN CALLED============");
 
         super.onCreate(/*paramBundle*/null);
-
         makeActionOverflowMenuShown();
 	    setContentView(R.layout.anti_activity_main);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+        if (Build.VERSION.SDK_INT >= 21)
+            getWindow().setStatusBarColor(Color.parseColor("#F9DC5C"));
+
+
+
 
         /*getSupportActionBar();
 

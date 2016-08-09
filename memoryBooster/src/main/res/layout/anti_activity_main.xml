@@ -10,7 +10,7 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
+        android:background="#F9DC5C"
         android:popupTheme="@style/ThemeOverlay.AppCompat.Light">
 
         <TextView
@@ -19,7 +19,7 @@
             android:textSize="22sp"
             android:textStyle="bold"
             android:textColor="@color/white"
-            android:text="Antivirus"/>
+            android:text="Avivast Antivirus"/>
     </android.support.v7.widget.Toolbar>
     <LinearLayout
         android:id="@+id/container"

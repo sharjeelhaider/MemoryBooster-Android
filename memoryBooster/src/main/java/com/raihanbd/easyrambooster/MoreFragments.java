@@ -11,6 +11,7 @@ import android.text.format.Formatter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -26,6 +27,7 @@ public class MoreFragments extends Fragment {
 	private ProgressWheel pw = null;
 	private ProgressWheel exPW = null;
 	private LinearLayout layourExternal;
+	private ImageView anti;
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -36,6 +38,7 @@ public class MoreFragments extends Fragment {
 
 		pw = (ProgressWheel) v.findViewById(R.id.pw_spinner_internal);
 		exPW = (ProgressWheel) v.findViewById(R.id.pw_spinner_external);
+		anti = (ImageView) v.findViewById(R.id.antivirus);
 
 		layourExternal = (LinearLayout) v.findViewById(R.id.layourExternal);
 
@@ -47,7 +50,7 @@ public class MoreFragments extends Fragment {
 		txtExAvail = (TextView) v.findViewById(R.id.txtAvailExternalMemory);
 		txtExFree = (TextView) v.findViewById(R.id.txtFreeExternalMemory);
 
-		pw.setOnClickListener(new View.OnClickListener() {
+		anti.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
 				final AppData appData = AppData.getInstance(getActivity());
@@ -78,6 +81,8 @@ public class MoreFragments extends Fragment {
 
 			}
 		});
+
+
 		return v;
 	}
 

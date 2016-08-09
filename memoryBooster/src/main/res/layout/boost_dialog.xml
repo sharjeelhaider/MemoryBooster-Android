@@ -12,7 +12,7 @@
         android:gravity="center"
         android:padding="8dp"
         android:text="@string/dialog_title"
-        android:textColor="#089bd1"
+        android:textColor="#D37643"
         android:textSize="22sp"
         android:textStyle="bold" />
 
@@ -42,7 +42,7 @@
             android:padding="5dp"
             android:singleLine="true"
             android:text="Process Killed: 17"
-            android:textColor="#11b0ea"
+            android:textColor="#FFA987"
             android:textSize="18sp" />
 
         <TextView
@@ -53,7 +53,7 @@
             android:padding="5dp"
             android:singleLine="true"
             android:text="Memory Cleaned: 30MB"
-            android:textColor="#11b0ea"
+            android:textColor="#FFA987"
             android:textSize="18sp" />
 
         <TextView
@@ -64,7 +64,7 @@
             android:padding="5dp"
             android:singleLine="true"
             android:text="Cache Cleaned: 30MB"
-            android:textColor="#11b0ea"
+            android:textColor="#FFA987"
             android:textSize="18sp" />
     </LinearLayout>
 

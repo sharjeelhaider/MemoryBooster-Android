@@ -99,7 +99,7 @@
                     android:layout_height="match_parent"
                     android:gravity="left"
                     android:text="@string/total_mem"
-                    android:textColor="#316171"
+                    android:textColor="#D37643"
                     android:textSize="16sp" />
 
                 <TextView
@@ -109,7 +109,7 @@
                     android:gravity="left"
                     android:paddingLeft="3dp"
                     android:text="484 MB"
-                    android:textColor="#316171"
+                    android:textColor="#D37643"
                     android:textSize="16sp"
                     android:textStyle="bold" />
             </TableRow>
@@ -135,7 +135,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginTop="10dp"
             android:gravity="left"
-            android:textColor="#1f94bb"
+            android:textColor="#FFA987"
             android:textSize="16sp" />
 
         <TextView
@@ -145,7 +145,7 @@
             android:layout_marginBottom="8dp"
             android:layout_marginLeft="5dp"
             android:gravity="left"
-            android:textColor="#1f94bb"
+            android:textColor="#FFA987"
             android:textSize="16sp" />
 
         <TextView
@@ -154,7 +154,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:gravity="left"
-            android:textColor="#1f94bb"
+            android:textColor="#FFA987"
             android:textSize="16sp" />
     </LinearLayout>
 
@@ -181,7 +181,7 @@
     <!-- AdMob Layout -->
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         ads:adSize="BANNER"
         ads:adUnitId="@string/admob_publisher_id" />

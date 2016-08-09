@@ -26,8 +26,8 @@
 	<color name="wave_widget_back_wave">#148080</color>
     <color name="wave_starting_wave_color">#213C3E</color>
 
-    <color name="top_part_backgrond_color">#252529</color>
-    <color name="bottom_part_background_color">#2B2B30</color>
+    <color name="top_part_backgrond_color">#F9DC5C</color>
+    <color name="bottom_part_background_color">#F9DC5C</color>
 
 	<color name="info_icon_top_text">#D3D2D1</color>
 	<color name="info_icon_bottom_text">#726D6C</color>
@@ -36,11 +36,11 @@
 	<color name="actionbar_text">#ffffff</color>
 	<color name="PrimaryTextColor">#726D6C</color>
 	<color name="SecondaryTextColor">#ffffff</color>
-	<color name="PrimaryColor">#22242B</color>
-	<color name="SecondaryColor">#D3D2D1</color>
-	<color name="DividerColor">#4B4F5E</color>
-	<color name="colorBackgroundScanInProgress">#3B3F4D</color>
-	<color name="color_BackgroundAnimationProgress">#4B4F5E</color>
+	<color name="PrimaryColor">#F9DC5C</color>
+	<color name="SecondaryColor">#F9DC5C</color>
+	<color name="DividerColor">#F9DC5C</color>
+	<color name="colorBackgroundScanInProgress">#F9DC5C</color>
+	<color name="color_BackgroundAnimationProgress">#edcc3c</color>
 
 	<color name="HighRiskColor">#E74C3C</color>
 	<color name="MediumRiskColor">#FF933C</color>
