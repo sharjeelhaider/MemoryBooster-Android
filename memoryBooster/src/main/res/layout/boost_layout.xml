@@ -22,14 +22,14 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:layout_gravity="left"
-            ProgressWheel:barColor="#08b3f2"
+            ProgressWheel:barColor="#FFA987"
             ProgressWheel:barLength="60dp"
             ProgressWheel:barWidth="10dp"
-            ProgressWheel:rimColor="#316171"
+            ProgressWheel:rimColor="#D37643"
             ProgressWheel:rimWidth="5dp"
             ProgressWheel:spinSpeed="3dp"
             ProgressWheel:text="0%"
-            ProgressWheel:textColor="#00aaf9"
+            ProgressWheel:textColor="#FFA987"
             ProgressWheel:textSize="26sp" />
 
         <!-- Memory Status Container -->
@@ -49,7 +49,7 @@
                     android:layout_height="match_parent"
                     android:gravity="left"
                     android:text="@string/used_mem"
-                    android:textColor="#316171"
+                    android:textColor="#D37643"
                     android:textSize="16sp" />
 
                 <TextView
@@ -59,7 +59,7 @@
                     android:gravity="left"
                     android:paddingLeft="3dp"
                     android:text="128 MB"
-                    android:textColor="#316171"
+                    android:textColor="#D37643"
                     android:textSize="16sp"
                     android:textStyle="bold" />
             </TableRow>
@@ -74,7 +74,7 @@
                     android:layout_height="match_parent"
                     android:gravity="left"
                     android:text="@string/free_mem"
-                    android:textColor="#08b3f2"
+                    android:textColor="#FFA987"
                     android:textSize="16sp" />
 
                 <TextView
@@ -84,7 +84,7 @@
                     android:gravity="left"
                     android:paddingLeft="3dp"
                     android:text="128 MB"
-                    android:textColor="#08b3f2"
+                    android:textColor="#FFA987"
                     android:textSize="16sp"
                     android:textStyle="bold" />
             </TableRow>

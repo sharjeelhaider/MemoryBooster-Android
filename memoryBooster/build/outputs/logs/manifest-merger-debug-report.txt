@@ -2425,7 +2425,7 @@ MERGED from [com.google.android.gms:play-services-maps:9.0.0] F:\MobileWall Sdk\
 		ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifest.xml:16:22-76
 application
 ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifest.xml:18:5-79:19
-MERGED from [MemoryBooster:progressWheel:unspecified] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\MemoryBooster\progressWheel\unspecified\AndroidManifest.xml:11:5-21:19
+MERGED from [MemoryBooster:progressWheel:unspecified] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\MemoryBooster\progressWheel\unspecified\AndroidManifest.xml:11:5-24:19
 MERGED from [com.android.support:design:24.1.1] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\design\24.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:24.1.1] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.1.1] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
@@ -5460,7 +5460,7 @@ ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifes
 	android:name
 		ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifest.xml:78:41-114
 activity#com.todddavies.components.progressbar.main
-ADDED from [MemoryBooster:progressWheel:unspecified] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\MemoryBooster\progressWheel\unspecified\AndroidManifest.xml:14:9-20:20
+ADDED from [MemoryBooster:progressWheel:unspecified] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\MemoryBooster\progressWheel\unspecified\AndroidManifest.xml:14:9-23:20
 	android:name
 		ADDED from [MemoryBooster:progressWheel:unspecified] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\MemoryBooster\progressWheel\unspecified\AndroidManifest.xml:14:19-76
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity

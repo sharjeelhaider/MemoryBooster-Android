@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi,armeabi-v7a"
-    api-level="23"
+    api-level="21"
     density="xxhdpi"
     format="8"
-    timestamp="28659957443647"
-    token="6800088919134146744" >
+    timestamp="97522648267415"
+    token="6800088919134146744"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -21,20 +22,15 @@
         duration="0" />
 
     <artifact
-        location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="28477850308435"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="97522648267415"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="28659957443647" >
-        <artifact
-            location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

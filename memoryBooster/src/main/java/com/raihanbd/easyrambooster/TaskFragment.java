@@ -70,7 +70,7 @@ public class TaskFragment extends Fragment implements OnDismissCallback,
 		super.setMenuVisibility(menuVisible);
 		
 		if (menuVisible) {
-			// DisplayList(getActivity());
+			 DisplayList(getActivity());
 		}
 	}
 

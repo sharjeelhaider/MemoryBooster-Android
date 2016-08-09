@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Aug 08 16:50:52 PKT 2016
+#Tue Aug 09 12:01:21 PKT 2016
 835.base=F\:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 100.set=ANDROID_RESOURCE
 57.file=F\:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\org\\joda\\time\\tz\\data\\Asia\\Ashgabat
