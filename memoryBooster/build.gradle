@@ -8,8 +8,11 @@ android {
         applicationId "geniuscloud.memory.booster"
         minSdkVersion 14
         targetSdkVersion 24
+        multiDexEnabled true
     }
-
+    dexOptions{
+        javaMaxHeapSize "4g"
+    }
     buildTypes {
         release {
             minifyEnabled false

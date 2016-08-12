@@ -228,7 +228,7 @@ public class AntivirusActivity extends AppCompatActivity implements MonitorShiel
 	    setContentView(R.layout.anti_activity_main);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         if (Build.VERSION.SDK_INT >= 21)
-            getWindow().setStatusBarColor(Color.parseColor("#F9DC5C"));
+            getWindow().setStatusBarColor(Color.parseColor("#ff790b"));
 
 
 

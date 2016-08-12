@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="geniuscloud.memory.booster.test">
+    package="geniuscloud.memory.booster.test" >
 
-    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="24" />
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for geniuscloud.memory.booster"
+        android:targetPackage="geniuscloud.memory.booster" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="geniuscloud.memory.booster"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for geniuscloud.memory.booster"/>
 </manifest>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-	<color name="colorPrimary">#FFA987</color>
-	<color name="colorPrimaryDark">#FFA987</color>
-	<color name="colorAccent">#FFA987</color>
+	<color name="colorPrimary">#0c184c</color>
+	<color name="colorPrimaryDark">#0c184c</color>
+	<color name="colorAccent">#0c184c</color>
 	<color name="transparent">#00000000</color>
 	<color name="white">#FFFFFF</color>
 
@@ -26,8 +26,8 @@
 	<color name="wave_widget_back_wave">#148080</color>
     <color name="wave_starting_wave_color">#213C3E</color>
 
-    <color name="top_part_backgrond_color">#F9DC5C</color>
-    <color name="bottom_part_background_color">#F9DC5C</color>
+    <color name="top_part_backgrond_color">#ff790b</color>
+    <color name="bottom_part_background_color">#ff790b</color>
 
 	<color name="info_icon_top_text">#D3D2D1</color>
 	<color name="info_icon_bottom_text">#726D6C</color>
@@ -36,14 +36,14 @@
 	<color name="actionbar_text">#ffffff</color>
 	<color name="PrimaryTextColor">#726D6C</color>
 	<color name="SecondaryTextColor">#ffffff</color>
-	<color name="PrimaryColor">#F9DC5C</color>
-	<color name="SecondaryColor">#F9DC5C</color>
-	<color name="DividerColor">#F9DC5C</color>
-	<color name="colorBackgroundScanInProgress">#F9DC5C</color>
-	<color name="color_BackgroundAnimationProgress">#edcc3c</color>
+	<color name="PrimaryColor">#ff790b</color>
+	<color name="SecondaryColor">#ff790b</color>
+	<color name="DividerColor">#ff790b</color>
+	<color name="colorBackgroundScanInProgress">#ff790b</color>
+	<color name="color_BackgroundAnimationProgress">#e56b07</color>
 
-	<color name="HighRiskColor">#E74C3C</color>
-	<color name="MediumRiskColor">#FF933C</color>
+	<color name="HighRiskColor">#22242B</color>
+	<color name="MediumRiskColor">#ffffff</color>
 	<color name="ProtectedRiskColor">#71B867</color>
 
 	<color name="fix_screen_bottom_color">#ffffffff</color>

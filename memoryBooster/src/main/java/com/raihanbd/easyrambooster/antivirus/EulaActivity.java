@@ -28,7 +28,7 @@ public class EulaActivity extends Activity
         Button _acceptEula = (Button) findViewById(R.id.accept_eula_button);
         Button _declineEula = (Button) findViewById(R.id.decline_eula_button);
         if (Build.VERSION.SDK_INT >= 21)
-            getWindow().setStatusBarColor(Color.parseColor("#F9DC5C"));
+            getWindow().setStatusBarColor(Color.parseColor("#ff790b"));
 
         _acceptEula.setOnClickListener(new View.OnClickListener()
         {

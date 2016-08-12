@@ -62,14 +62,14 @@
                         android:layout_width="120dp"
                         android:layout_height="120dp"
                         android:layout_gravity="left"
-                        ProgressWheel:barColor="#F9DC5C"
+                        ProgressWheel:barColor="#ff790b"
                         ProgressWheel:barLength="60dp"
                         ProgressWheel:barWidth="9dp"
-                        ProgressWheel:rimColor="#edcc3c"
+                        ProgressWheel:rimColor="#e56b07"
                         ProgressWheel:rimWidth="5dp"
                         ProgressWheel:spinSpeed="3dp"
                         ProgressWheel:text="0%"
-                        ProgressWheel:textColor="#F9DC5C"
+                        ProgressWheel:textColor="#ff790b"
                         ProgressWheel:textSize="26sp" />
 
                     <!-- Memory Status Container -->
@@ -87,7 +87,7 @@
                             android:layout_marginTop="10dp"
                             android:gravity="left"
                             android:singleLine="true"
-                            android:textColor="#edcc3c"
+                            android:textColor="#e56b07"
                             android:textSize="16sp" />
 
                         <TextView
@@ -97,7 +97,7 @@
                             android:layout_marginTop="10dp"
                             android:gravity="left"
                             android:singleLine="true"
-                            android:textColor="#F9DC5C"
+                            android:textColor="#ff790b"
                             android:textSize="16sp" />
 
                         <TextView
@@ -106,7 +106,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
                             android:gravity="left"
-                            android:textColor="#edcc3c"
+                            android:textColor="#e56b07"
                             android:singleLine="true"
                             android:textSize="16sp" />
                     </LinearLayout>
@@ -152,14 +152,14 @@
                         android:layout_width="120dp"
                         android:layout_height="120dp"
                         android:layout_gravity="left"
-                        ProgressWheel:barColor="#08b3f2"
+                        ProgressWheel:barColor="#ff790b"
                         ProgressWheel:barLength="60dp"
                         ProgressWheel:barWidth="9dp"
-                        ProgressWheel:rimColor="#316171"
+                        ProgressWheel:rimColor="#e56b07"
                         ProgressWheel:rimWidth="5dp"
                         ProgressWheel:spinSpeed="3dp"
                         ProgressWheel:text="0%"
-                        ProgressWheel:textColor="#00aaf9"
+                        ProgressWheel:textColor="#ff790b"
                         ProgressWheel:textSize="26sp" />
 
                     <!-- Memory Status Container -->
@@ -177,7 +177,7 @@
                             android:layout_marginTop="10dp"
                             android:gravity="left"
                             android:singleLine="true"
-                            android:textColor="#316171"
+                            android:textColor="#e56b07"
                             android:textSize="16sp" />
 
                         <TextView
@@ -187,7 +187,7 @@
                             android:layout_marginTop="10dp"
                             android:gravity="left"
                             android:singleLine="true"
-                            android:textColor="#08b3f2"
+                            android:textColor="#ff790b"
                             android:textSize="16sp" />
 
                         <TextView
@@ -197,7 +197,7 @@
                             android:layout_marginTop="10dp"
                             android:gravity="left"
                             android:singleLine="true"
-                            android:textColor="#316171"
+                            android:textColor="#e56b07"
                             android:textSize="16sp" />
                     </LinearLayout>
                 </LinearLayout>

@@ -19,6 +19,7 @@ ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifes
 		ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from F:\MobileWall Sdk\MemoryBooster\memoryBooster\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
 MERGED from [MemoryBooster:progressWheel:unspecified] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\MemoryBooster\progressWheel\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:24.1.1] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\design\24.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:24.1.1] F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54

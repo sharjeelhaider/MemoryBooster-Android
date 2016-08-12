@@ -64,10 +64,10 @@ public class MainActivity extends AppCompatActivity {
 			@Override
 			public void onPageSelected(int pos) {
 				if (pos==2){
-					toolbar.setBackgroundColor(Color.parseColor("#F9DC5C"));
-					tabLayout.setBackgroundColor(Color.parseColor("#F9DC5C"));
+					toolbar.setBackgroundColor(Color.parseColor("#ff790b"));
+					tabLayout.setBackgroundColor(Color.parseColor("#ff790b"));
 					if (Build.VERSION.SDK_INT >= 21)
-					getWindow().setStatusBarColor(Color.parseColor("#F9DC5C"));
+					getWindow().setStatusBarColor(Color.parseColor("#ff790b"));
 				}else{
 					toolbar.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
 					tabLayout.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
