@@ -4,12 +4,12 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable-xhdpi\\list_focused_easyrambooster.9.png"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_default_easyrambooster.9.png",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_easyrambooster.9.png"
-    },
-    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_2_light.png",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_default_easyrambooster.9.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_easyrambooster.9.png"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_focused_easyrambooster.9.png",

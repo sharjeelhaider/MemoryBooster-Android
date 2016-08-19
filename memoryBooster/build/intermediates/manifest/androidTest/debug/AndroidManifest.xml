@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="geniuscloud.memory.booster.test" >
+    package="com.booster.avivast.test" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -10,8 +10,8 @@
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for geniuscloud.memory.booster"
-        android:targetPackage="geniuscloud.memory.booster" />
+        android:label="Tests for com.booster.avivast"
+        android:targetPackage="com.booster.avivast" />
 
     <application>
         <uses-library android:name="android.test.runner" />

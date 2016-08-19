@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="application_name">Avivast Antivirus</string>
+    <string name="application_name">Avivast Antivirus &amp; Booster</string>
     <string name="action_settings">Settings</string>
     <string name="used_mem">Used: </string>
     <string name="free_mem">Free: </string>
@@ -16,12 +16,12 @@
     <string name="cache">Cache: </string>
     <string name="btn_boost">Boost</string>
     <string name="task_msg">Do you want to clean it?</string>
-    <string name="admob_publisher_id">ca-app-pub-1830103045494993/7124556468</string>
-    <string name="interistitial_id">ca-app-pub-1830103045494993/8601289663</string>
+    <string name="admob_publisher_id">ca-app-pub-7535177718027848/9378007210</string>
+    <string name="interistitial_id">ca-app-pub-7535177718027848/6145339215</string>
 
 
-    <string name="interstitial_ad_unit" translatable="false">ca-app-pub-3912218987594825/4525835590</string>
-    <string name="banner_ad_unit" translatable="false">ca-app-pub-3912218987594825/9095635994</string>
+    <string name="interstitial_ad_unit" translatable="false">ca-app-pub-7535177718027848/6145339215</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-7535177718027848/9378007210</string>
 
     <string name="app_name">Avivast Antivirus</string>
     <string name="no_inet_no_app">Avivast Antivirus needs a data connection to operate. Please enable Wifi or 3G and try again.</string>
@@ -95,7 +95,7 @@
     <string name="install_application">You are one step away from cleaning any malicious threats found in your device. We have put a lot of time to create this application. Please, install one of our FREE applications to let you continue and support us. You will contribute in making this great application even better.</string>
     <string name="scaned_text">Scanned</string>
     <string name="menacesText">Problems</string>
-    <string name="welcome_text">Welcome to AMS Antivirus</string>
+    <string name="welcome_text">Welcome to Avivast Antivirus</string>
     <string name="phone_data_shared">Phone data shared</string>
     <string name="location_shared">Location shared</string>
     <string name="read_your_sms">Can read your SMS</string>
