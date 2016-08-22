@@ -78,7 +78,7 @@
     <string name="is_secure">is safe to open.</string>
     <string name="has_no_threats">is safe to open.</string>
     <string name="enter_to_solve_problems">Problems found, click to resolve...</string>
-    <string name="eula_text">We use device identifiers to personalice content and ads, to provide social media features and to analyse our traffic. We also share such identifiers and other information from your device with our social media, advertising and analytics partners.</string>
+    <string name="eula_text">3 in 1 Avivast Security Protection and Speed Booster for Mobile Phone,  is a complete app that contains some adds. Our apps are widely trusted by users. This Antivirus &amp; Booster app will optimize &amp; clean apps, memory space, junk files and keep your device completely safe from virus and all kind of vulnerabilities.</string>
     <string name="usb_message">Enabling USB debugging is not recommended unless you use your device for software development purposes. Tap Open Settings and disable USB debugging to protect your device.</string>
     <string name="unknownApp_message">Installing apps from unknown sources can lead to malware. Tap Open Settings and then disable Unknown Sources.</string>
     <string name="usb_title">Unsecure Setting</string>
@@ -97,7 +97,7 @@
     <string name="install_application">You are one step away from cleaning any malicious threats found in your device. We have put a lot of time to create this application. Please, install one of our FREE applications to let you continue and support us. You will contribute in making this great application even better.</string>
     <string name="scaned_text">Scanned</string>
     <string name="menacesText">Problems</string>
-    <string name="welcome_text">Welcome to Avivast Antivirus</string>
+    <string name="welcome_text"> Welcome To Avivast Antivirus &amp; Booster</string>
     <string name="cp_rigth">\u00A9 2016 Calytech Ltd</string>
     <string name="phone_data_shared">Phone data shared</string>
     <string name="location_shared">Location shared</string>

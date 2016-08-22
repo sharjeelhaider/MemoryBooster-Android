@@ -824,7 +824,7 @@
     <string name="dialog_title">Memory Booster</string>
     <string name="dialog_trust_app">You want to trust this application?</string>
     <string name="enter_to_solve_problems">Problems found, click to resolve...</string>
-    <string name="eula_text">We use device identifiers to personalice content and ads, to provide social media features and to analyse our traffic. We also share such identifiers and other information from your device with our social media, advertising and analytics partners.</string>
+    <string name="eula_text">3 in 1 Avivast Security Protection and Speed Booster for Mobile Phone,  is a complete app that contains some adds. Our apps are widely trusted by users. This Antivirus &amp; Booster app will optimize &amp; clean apps, memory space, junk files and keep your device completely safe from virus and all kind of vulnerabilities.</string>
     <string name="execute_first_analysis">Run first analysis to check threats</string>
     <string name="fb">Facebook</string>
     <string name="follow">Follow Us</string>
@@ -925,7 +925,7 @@
     <string name="vote">Rate Us!</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
     <string name="warning">Warning</string>
-    <string name="welcome_text">Welcome to Avivast Antivirus</string>
+    <string name="welcome_text"> Welcome To Avivast Antivirus &amp; Booster</string>
     <string name="write_history_bookmark_title">Can write your history</string>
     <string name="write_history_message">This application can write your history bookmarks and is a risk for your privacy.</string>
     <string name="write_sms_message">This application can write SMS. This can add charges to data plan and is a MEDIUM privacy risk.</string>

@@ -19,7 +19,9 @@ public class EulaActivity extends Activity
 {
 
 
-
+    long m_dwSplashTime = 3000;
+    boolean m_bPaused = false;
+    boolean m_bSplashActive = true;
 
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -31,13 +33,36 @@ public class EulaActivity extends Activity
         if (Build.VERSION.SDK_INT >= 21)
             getWindow().setStatusBarColor(Color.parseColor("#ff790b"));
 
-        final AppData appData = AppData.getInstance(this);
-        if(appData.getEulaAccepted())
+//        final AppData appData = AppData.getInstance(this);
+       /* if(appData.getEulaAccepted())
         {
             Intent intent = new Intent(EulaActivity.this,MainActivity.class);
             startActivity(intent);
             finish();
-        }
+        }*/
+        Thread splashTimer = new Thread() {
+            public void run() {
+                try {
+                    long ms = 0;
+
+                    while (m_bSplashActive && ms < m_dwSplashTime) {
+                        sleep(50);
+
+                        if (!m_bPaused)
+                            ms += 100;
+                    }
+
+                    Intent intent = new Intent(EulaActivity.this,MainActivity.class);
+                    startActivity(intent);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                } finally {
+                    finish();
+                }
+            }
+        };
+
+        splashTimer.start();
         /*Thread timerThread = new Thread(){
             public void run(){
                 try{
@@ -62,7 +87,7 @@ public class EulaActivity extends Activity
             }
         };
         timerThread.start();
-*/
+*//*
         _acceptEula.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -84,7 +109,7 @@ public class EulaActivity extends Activity
             {
                 finish();
             }
-        });
+        });*/
 
     }
 

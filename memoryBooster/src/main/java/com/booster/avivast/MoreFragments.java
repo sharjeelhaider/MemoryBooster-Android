@@ -63,7 +63,9 @@ public class MoreFragments extends Fragment {
 							e.printStackTrace();
 						}finally{
 
-							if(appData.getEulaAccepted())
+							Intent intent = new Intent(getActivity(),AntivirusActivity.class);
+							startActivity(intent);
+							/*if(appData.getEulaAccepted())
 							{
 								Intent intent = new Intent(getActivity(),AntivirusActivity.class);
 								startActivity(intent);
@@ -72,7 +74,7 @@ public class MoreFragments extends Fragment {
 								Intent intent = new Intent(getActivity(),EulaActivity.class);
 								intent.setFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
 								startActivity(intent);
-							}
+							}*/
 
 						}
 					}
