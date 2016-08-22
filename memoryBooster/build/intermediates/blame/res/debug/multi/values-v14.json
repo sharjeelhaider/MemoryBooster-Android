@@ -304,6 +304,48 @@
                         "endOffset": 3116
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4180,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4548
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4553,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 4980
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 855
+                    }
+                }
             }
         ]
     }

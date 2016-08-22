@@ -3,6 +3,8 @@
 
     <string name="application_name">Avivast Antivirus &amp; Booster</string>
     <string name="action_settings">Settings</string>
+    <string name="app_ver">Version : 1.0</string>
+    <string name="follow">Follow Us</string>
     <string name="used_mem">Used: </string>
     <string name="free_mem">Free: </string>
     <string name="total_mem">Total: </string>
@@ -114,10 +116,21 @@
     <string name="tab2">Clean</string>
     <string name="tab3">Antivirus</string>
 
+    <string name="fb">Facebook</string>
+    <string name="tw">Twitter</string>
+    <string name="insta">Instagram</string>
+
     <string-array name="my_tab_array">
         <item>@string/tab1</item>
         <item>@string/tab2</item>
         <item>@string/tab3</item>
+
+    </string-array>
+
+    <string-array name="follow_items">
+        <item>@string/fb</item>
+        <item>@string/tw</item>
+        <item>@string/insta</item>
 
     </string-array>
 </resources>

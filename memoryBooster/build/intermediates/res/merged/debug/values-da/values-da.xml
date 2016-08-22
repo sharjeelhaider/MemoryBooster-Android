@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheder"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Ryd søgning"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Søg"</string>
+    <string name="rta_dialog_cancel">Senere</string>
+    <string name="rta_dialog_message">Hvis du synes om appen, må du gerne bedømme den. Det tager højst et minut. Tak for din hjælp.</string>
+    <string name="rta_dialog_no">Nej tak</string>
+    <string name="rta_dialog_ok">Bedøm nu</string>
+    <string name="rta_dialog_title">Bedøm appen</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

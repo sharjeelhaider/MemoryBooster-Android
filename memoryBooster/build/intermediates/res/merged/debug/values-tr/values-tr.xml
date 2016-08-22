@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Cihazlar"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Aramayı temizle"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Ara"</string>
+    <string name="rta_dialog_cancel">Hatırlat</string>
+    <string name="rta_dialog_message">Eğer uygulamamızdan memnun kaldıysanız, lütfen birkaç saniyenizi ayırarak bize puan verin. Desteğiniz için teşekkürler!</string>
+    <string name="rta_dialog_no">Hayır, teşekkürler</string>
+    <string name="rta_dialog_ok">Puan ver</string>
+    <string name="rta_dialog_title">Bu uygulamaya puan verin</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

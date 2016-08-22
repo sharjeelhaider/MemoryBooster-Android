@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"端末"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"検索をクリア"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"検索"</string>
+    <string name="rta_dialog_cancel">あとで</string>
+    <string name="rta_dialog_message">このアプリを気に入っていただいたら、ぜひレビューしてください。レビューは１分未満で終わります。</string>
+    <string name="rta_dialog_no">いいえ</string>
+    <string name="rta_dialog_ok">はい</string>
+    <string name="rta_dialog_title">アプリをレビューしませんか？</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

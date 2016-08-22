@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Laitteet"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Tyhjennä haku."</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Haku"</string>
+    <string name="rta_dialog_cancel">Myöhemmin</string>
+    <string name="rta_dialog_message">Jos tykkäät sovelluksesta, ole hyvä ja arvostelese? Kiitos tuestasi!</string>
+    <string name="rta_dialog_no">Ei kiitos</string>
+    <string name="rta_dialog_ok">Arvostele</string>
+    <string name="rta_dialog_title">Arvostele sovellus</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

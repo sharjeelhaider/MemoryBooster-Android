@@ -52,5 +52,13 @@
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Fazer login com o Google"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Limpar pesquisa"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Pesquisar"</string>
+    <string name="rta_dialog_cancel">Depois</string>
+    <string name="rta_dialog_message">
+      Se você gosta de usar esse aplicativo, se importaria de qualificá-lo? Não irá tomar mais de um minuto.
+      Obrigado pelo o seu apoio.
+    </string>
+    <string name="rta_dialog_no">Não, obrigado</string>
+    <string name="rta_dialog_ok">Qualificar</string>
+    <string name="rta_dialog_title">Qualifique esse Aplicativo</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

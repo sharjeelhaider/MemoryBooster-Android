@@ -12,6 +12,10 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_fab_in.xml"
     },
     {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\anim\\popup_enter.xml"
+    },
+    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_fab_out.xml"
     },
@@ -44,6 +48,10 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\anim\\popup_exit.xml"
+    },
+    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_snackbar_out.xml"
     },
@@ -70,6 +78,10 @@
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\anim\\decelerate_cubic.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",

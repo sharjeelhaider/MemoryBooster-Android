@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Geräte"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Suche zurücksetzen"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Suche"</string>
+    <string name="rta_dialog_cancel">Später</string>
+    <string name="rta_dialog_message">Wenn dir diese App gefällt, nimm dir doch einen Moment Zeit und bewerte sie. Danke für deine Unterstützung!</string>
+    <string name="rta_dialog_no">Nein, Danke</string>
+    <string name="rta_dialog_ok">Jetzt bewerten</string>
+    <string name="rta_dialog_title">Bewerte diese App</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

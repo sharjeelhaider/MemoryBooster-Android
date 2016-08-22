@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"기기"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"검색어 지우기"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"검색"</string>
+    <string name="rta_dialog_cancel">나중에 할게요</string>
+    <string name="rta_dialog_message">이 앱이 만족스럽다면 평가를 부탁드립니다. 일분도 걸리지 않아요. 지원에 감사합니다. </string>
+    <string name="rta_dialog_no">안 할래요</string>
+    <string name="rta_dialog_ok">지금 평가하기</string>
+    <string name="rta_dialog_title">앱 평가하기</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

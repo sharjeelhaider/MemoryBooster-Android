@@ -577,8 +577,105 @@
                     "startLine": 32,
                     "startColumn": 4,
                     "startOffset": 3246,
+                    "endColumn": 52,
+                    "endOffset": 3294
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3299,
+                    "endLine": 36,
+                    "endColumn": 13,
+                    "endOffset": 3489
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3494,
+                    "endColumn": 55,
+                    "endOffset": 3545
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3550,
+                    "endColumn": 52,
+                    "endOffset": 3598
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 52,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3603,
+                    "endColumn": 71,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 71,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3675,
                     "endColumn": 100,
-                    "endOffset": 3342
+                    "endOffset": 3771
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-pt\\values-pt.xml",

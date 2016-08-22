@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Uređaji"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Brisanje pretraživanja"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Pretražite"</string>
+    <string name="rta_dialog_cancel">Podjeti me kasnije</string>
+    <string name="rta_dialog_message">Ako Vam se sviđa ova aplikacija, molimo Vas da odvojite trenutak kako bi je ocijenili. Neće trajati više od minute. Hvala!</string>
+    <string name="rta_dialog_no">Ne, hvala</string>
+    <string name="rta_dialog_ok">Ocijeni</string>
+    <string name="rta_dialog_title">Ocijeni aplikaciju</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Rensa sökning"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Söka"</string>
+    <string name="rta_dialog_cancel">Senare</string>
+    <string name="rta_dialog_message">Om du gillar denna app, sätt gärna betyg på den. Det tar inte mer än ett ögonblick. Tack för ditt stöd!</string>
+    <string name="rta_dialog_no">Nej, tack</string>
+    <string name="rta_dialog_ok">Betygsätt nu</string>
+    <string name="rta_dialog_title">Betygsätt appen</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
 </resources>

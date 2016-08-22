@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Zařízení"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Vymazat vyhledávání"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Vyhledávání"</string>
+    <string name="rta_dialog_cancel">Připomenout později</string>
+    <string name="rta_dialog_message">Pokud se Vám aplikace líbí, rádi bychom Vás poprosili o její ohodnocení. Nezabere to více než minutu. Děkujeme za Vaši podporu!</string>
+    <string name="rta_dialog_no">Ne, díky</string>
+    <string name="rta_dialog_ok">Ohodnotit nyní</string>
+    <string name="rta_dialog_title">Ohodnotit aplikaci</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

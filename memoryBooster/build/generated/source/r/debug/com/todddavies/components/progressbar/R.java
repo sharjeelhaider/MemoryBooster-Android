@@ -8,20 +8,20 @@ package com.todddavies.components.progressbar;
 
 public final class R {
 	public static final class attr {
-		public static final int barColor = 0x7f010149;
-		public static final int barLength = 0x7f0100ff;
-		public static final int barWidth = 0x7f010150;
-		public static final int circleColor = 0x7f01014e;
-		public static final int contourColor = 0x7f010151;
-		public static final int contourSize = 0x7f010152;
-		public static final int delayMillis = 0x7f01014d;
-		public static final int radius = 0x7f01014f;
-		public static final int rimColor = 0x7f01014a;
-		public static final int rimWidth = 0x7f01014b;
-		public static final int spinSpeed = 0x7f01014c;
-		public static final int text = 0x7f010146;
-		public static final int textColor = 0x7f010147;
-		public static final int textSize = 0x7f010148;
+		public static final int barColor = 0x7f01016b;
+		public static final int barLength = 0x7f01011b;
+		public static final int barWidth = 0x7f010172;
+		public static final int circleColor = 0x7f010170;
+		public static final int contourColor = 0x7f010173;
+		public static final int contourSize = 0x7f010174;
+		public static final int delayMillis = 0x7f01016f;
+		public static final int radius = 0x7f010171;
+		public static final int rimColor = 0x7f01016c;
+		public static final int rimWidth = 0x7f01016d;
+		public static final int spinSpeed = 0x7f01016e;
+		public static final int text = 0x7f010168;
+		public static final int textColor = 0x7f010169;
+		public static final int textSize = 0x7f01016a;
 	}
 	public static final class drawable {
 		public static final int header = 0x7f020097;
@@ -32,27 +32,27 @@ public final class R {
 		public static final int logo = 0x7f0200be;
 	}
 	public static final class id {
-		public static final int RelativeLayout01 = 0x7f0d0130;
-		public static final int btn_increment = 0x7f0d0134;
-		public static final int btn_spin = 0x7f0d0133;
-		public static final int iv_login_header_image = 0x7f0d00e6;
-		public static final int progressBar = 0x7f0d00e9;
-		public static final int progressBarFour = 0x7f0d0137;
-		public static final int progressBarThree = 0x7f0d0136;
-		public static final int progressBarTwo = 0x7f0d0135;
-		public static final int progressImage = 0x7f0d0131;
-		public static final int rl_login_header = 0x7f0d00e5;
-		public static final int tv_progressText = 0x7f0d0132;
-		public static final int v_login_gradient = 0x7f0d00e7;
-		public static final int vf_login_flipper = 0x7f0d00e8;
+		public static final int RelativeLayout01 = 0x7f0d0142;
+		public static final int btn_increment = 0x7f0d0146;
+		public static final int btn_spin = 0x7f0d0145;
+		public static final int iv_login_header_image = 0x7f0d00e8;
+		public static final int progressBar = 0x7f0d00eb;
+		public static final int progressBarFour = 0x7f0d0149;
+		public static final int progressBarThree = 0x7f0d0148;
+		public static final int progressBarTwo = 0x7f0d0147;
+		public static final int progressImage = 0x7f0d0143;
+		public static final int rl_login_header = 0x7f0d00e7;
+		public static final int tv_progressText = 0x7f0d0144;
+		public static final int v_login_gradient = 0x7f0d00e9;
+		public static final int vf_login_flipper = 0x7f0d00ea;
 	}
 	public static final class layout {
 		public static final int main = 0x7f03002f;
-		public static final int progress_spinner = 0x7f030042;
-		public static final int progress_wheel_activity = 0x7f030043;
+		public static final int progress_spinner = 0x7f030055;
+		public static final int progress_wheel_activity = 0x7f030056;
 	}
 	public static final class styleable {
-		public static final int[] ProgressWheel = { 0x7f0100ff, 0x7f010146, 0x7f010147, 0x7f010148, 0x7f010149, 0x7f01014a, 0x7f01014b, 0x7f01014c, 0x7f01014d, 0x7f01014e, 0x7f01014f, 0x7f010150, 0x7f010151, 0x7f010152 };
+		public static final int[] ProgressWheel = { 0x7f01011b, 0x7f010168, 0x7f010169, 0x7f01016a, 0x7f01016b, 0x7f01016c, 0x7f01016d, 0x7f01016e, 0x7f01016f, 0x7f010170, 0x7f010171, 0x7f010172, 0x7f010173, 0x7f010174 };
 		public static final int ProgressWheel_barColor = 4;
 		public static final int ProgressWheel_barLength = 0;
 		public static final int ProgressWheel_barWidth = 11;

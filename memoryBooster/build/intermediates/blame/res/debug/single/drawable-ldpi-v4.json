@@ -4,6 +4,10 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\MemoryBooster\\progressWheel\\unspecified\\res\\drawable-ldpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\md_nav_back.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    },
+    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     }

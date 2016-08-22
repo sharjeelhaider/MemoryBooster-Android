@@ -33,4 +33,9 @@
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Hasi saioa Google-n"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Garbitu bilaketa"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Bilaketa"</string>
+    <string name="rta_dialog_cancel">Beranduago</string>
+    <string name="rta_dialog_message">Aplikazioa gustatzen bazaizu, aipamenen bat idatz zenezake? ez duzu minutu bat baino gehiago beharko. Eskerrik asko zure babesagatik!</string>
+    <string name="rta_dialog_no">Ez, eskerrik asko</string>
+    <string name="rta_dialog_ok">Baloratu</string>
+    <string name="rta_dialog_title">Aplikazioa baloratu</string>
 </resources>

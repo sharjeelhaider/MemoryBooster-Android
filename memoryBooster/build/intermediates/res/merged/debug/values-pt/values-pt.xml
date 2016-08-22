@@ -30,5 +30,13 @@
     <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Interromper transmissão"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="rta_dialog_cancel">Depois</string>
+    <string name="rta_dialog_message">
+      Se você gosta de usar esse aplicativo, se importaria de qualificá-lo? Não irá tomar mais de um minuto.
+      Obrigado pelo o seu apoio.
+    </string>
+    <string name="rta_dialog_no">Não, obrigado</string>
+    <string name="rta_dialog_ok">Qualificar</string>
+    <string name="rta_dialog_title">Qualifique esse Aplicativo</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

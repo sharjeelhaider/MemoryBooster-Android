@@ -8,29 +8,29 @@ package com.liulishuo.magicprogresswidget;
 
 public final class R {
 	public static final class attr {
-		public static final int mpb_color = 0x7f01011f;
-		public static final int mpb_default_color = 0x7f010120;
-		public static final int mpb_percent = 0x7f01011e;
-		public static final int mpc_default_color = 0x7f010125;
-		public static final int mpc_end_color = 0x7f010124;
-		public static final int mpc_percent = 0x7f010121;
-		public static final int mpc_start_color = 0x7f010123;
-		public static final int mpc_stroke_width = 0x7f010122;
+		public static final int mpb_color = 0x7f01013c;
+		public static final int mpb_default_color = 0x7f01013d;
+		public static final int mpb_percent = 0x7f01013b;
+		public static final int mpc_default_color = 0x7f010142;
+		public static final int mpc_end_color = 0x7f010141;
+		public static final int mpc_percent = 0x7f01013e;
+		public static final int mpc_start_color = 0x7f010140;
+		public static final int mpc_stroke_width = 0x7f01013f;
 	}
 	public static final class color {
-		public static final int mpc_default_color = 0x7f0c005b;
-		public static final int mpc_end_color = 0x7f0c005c;
-		public static final int mpc_start_color = 0x7f0c005d;
+		public static final int mpc_default_color = 0x7f0c0062;
+		public static final int mpc_end_color = 0x7f0c0063;
+		public static final int mpc_start_color = 0x7f0c0064;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f060053;
+		public static final int app_name = 0x7f060058;
 	}
 	public static final class styleable {
-		public static final int[] MagicProgressBar = { 0x7f01011e, 0x7f01011f, 0x7f010120 };
+		public static final int[] MagicProgressBar = { 0x7f01013b, 0x7f01013c, 0x7f01013d };
 		public static final int MagicProgressBar_mpb_color = 1;
 		public static final int MagicProgressBar_mpb_default_color = 2;
 		public static final int MagicProgressBar_mpb_percent = 0;
-		public static final int[] MagicProgressCircle = { 0x7f010121, 0x7f010122, 0x7f010123, 0x7f010124, 0x7f010125 };
+		public static final int[] MagicProgressCircle = { 0x7f01013e, 0x7f01013f, 0x7f010140, 0x7f010141, 0x7f010142 };
 		public static final int MagicProgressCircle_mpc_default_color = 4;
 		public static final int MagicProgressCircle_mpc_end_color = 3;
 		public static final int MagicProgressCircle_mpc_percent = 0;

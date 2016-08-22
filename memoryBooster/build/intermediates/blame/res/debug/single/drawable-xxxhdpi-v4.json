@@ -102,5 +102,9 @@
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\md_nav_back.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\drawable-xxxhdpi-v4\\md_nav_back.png"
     }
 ]

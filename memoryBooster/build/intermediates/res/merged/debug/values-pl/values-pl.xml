@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Urządzenia"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Wyczyść wyszukiwanie"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Szukaj"</string>
+    <string name="rta_dialog_cancel">Przypomnij później</string>
+    <string name="rta_dialog_message">Jeżeli spodobała Ci się ta aplikacja, poświęć chwilę by ją ocenić. To nie zajmie dłużej niż jedną minutę. Z góry dziękuję za Twoje wsparcie!</string>
+    <string name="rta_dialog_no">Nie dziękuję</string>
+    <string name="rta_dialog_ok">Oceń teraz</string>
+    <string name="rta_dialog_title">Oceń aplikację</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

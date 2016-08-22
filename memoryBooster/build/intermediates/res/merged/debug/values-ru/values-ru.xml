@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Устройства"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Удалить поисковый запрос"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Поиск"</string>
+    <string name="rta_dialog_cancel">Напомнить позже</string>
+    <string name="rta_dialog_message">Если вам понравилось это приложение, пожалуйста, найдите время, чтобы оценить его. Это не займет больше минуты. Спасибо за вашу поддержку!</string>
+    <string name="rta_dialog_no">Нет, спасибо</string>
+    <string name="rta_dialog_ok">Оценить сейчас</string>
+    <string name="rta_dialog_title">Оцените приложение</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
 </resources>

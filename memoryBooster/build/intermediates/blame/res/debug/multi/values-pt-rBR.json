@@ -995,8 +995,105 @@
                     "startLine": 54,
                     "startColumn": 4,
                     "startOffset": 7319,
+                    "endColumn": 52,
+                    "endOffset": 7367
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7372,
+                    "endLine": 58,
+                    "endColumn": 13,
+                    "endOffset": 7562
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7567,
+                    "endColumn": 55,
+                    "endOffset": 7618
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7623,
+                    "endColumn": 52,
+                    "endOffset": 7671
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 52,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7676,
+                    "endColumn": 71,
+                    "endOffset": 7743
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\io.github.kobakei\\ratethisapp\\1.0.5\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 71,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7748,
                     "endColumn": 100,
-                    "endOffset": 7415
+                    "endOffset": 7844
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-pt-rBR\\values-pt-rBR.xml",

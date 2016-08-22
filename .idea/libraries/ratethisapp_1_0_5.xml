@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ratethisapp-1.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/memoryBooster/build/intermediates/exploded-aar/io.github.kobakei/ratethisapp/1.0.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/memoryBooster/build/intermediates/exploded-aar/io.github.kobakei/ratethisapp/1.0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kobakei/ratethisapp/1.0.5/a8a1d71e33f0524ab2fdbd20b55695d46043544f/ratethisapp-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

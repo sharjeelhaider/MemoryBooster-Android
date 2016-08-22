@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\io.github.kobakei\ratethisapp\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8603e9abb9c35c9e39ec570062a3ba28cf0e832e">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\io.github.kobakei-ratethisapp-1.0.5_e2fab2b60c09e680cc4cd6f7fd65a0400214567a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -507,6 +516,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.9.0.1_b28a661dd33a2b2fe329fa9565ed3153dc5b55cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -567,6 +585,15 @@
         revision="24.0.0"
         sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_7c212cf7dc76462e78a989321b9210f72f74eeea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.7_87589b6d77a33333bc7a23b0e74e27792c5786aa\classes.dex" />
     </item>
     <item
         is-multidex="true"

@@ -1643,9 +1643,51 @@
                     "startLine": 221,
                     "startColumn": 4,
                     "startOffset": 16617,
-                    "endLine": 230,
+                    "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 17125
+                    "endOffset": 17371
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 17376,
+                    "endLine": 242,
+                    "endColumn": 12,
+                    "endOffset": 18122
+                },
+                "from": {
+                    "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 18127,
+                    "endLine": 252,
+                    "endColumn": 12,
+                    "endOffset": 18635
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1661,12 +1703,12 @@
             },
             {
                 "to": {
-                    "startLine": 231,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 17130,
-                    "endLine": 240,
+                    "startOffset": 18640,
+                    "endLine": 262,
                     "endColumn": 12,
-                    "endOffset": 17650
+                    "endOffset": 19160
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1682,12 +1724,12 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 17655,
-                    "endLine": 250,
+                    "startOffset": 19165,
+                    "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 18330
+                    "endOffset": 19840
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1703,11 +1745,11 @@
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 18335,
+                    "startOffset": 19845,
                     "endColumn": 56,
-                    "endOffset": 18387
+                    "endOffset": 19897
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1722,11 +1764,11 @@
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 18392,
+                    "startOffset": 19902,
                     "endColumn": 57,
-                    "endOffset": 18445
+                    "endOffset": 19955
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1741,11 +1783,11 @@
             },
             {
                 "to": {
-                    "startLine": 253,
+                    "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 18450,
+                    "startOffset": 19960,
                     "endColumn": 121,
-                    "endOffset": 18567
+                    "endOffset": 20077
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.0.0\\res\\values-v21\\values.xml",
@@ -1760,12 +1802,12 @@
             },
             {
                 "to": {
-                    "startLine": 254,
+                    "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 18572,
-                    "endLine": 256,
+                    "startOffset": 20082,
+                    "endLine": 278,
                     "endColumn": 12,
-                    "endOffset": 18761
+                    "endOffset": 20271
                 },
                 "from": {
                     "file": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-v21\\values-v21.xml",

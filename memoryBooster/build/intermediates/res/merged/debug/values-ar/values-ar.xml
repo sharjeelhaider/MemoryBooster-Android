@@ -63,5 +63,10 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"الأجهزة"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"مسح البحث"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"البحث"</string>
+    <string name="rta_dialog_cancel">لاحقا</string>
+    <string name="rta_dialog_message">إذا احببت هذا التطبيق أبدي ملاحظاتك ، افكارك من خلال تقييمه على سوق بلاي</string>
+    <string name="rta_dialog_no">لا شكرا</string>
+    <string name="rta_dialog_ok">تقييم</string>
+    <string name="rta_dialog_title">قيم هذا التطبيق</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
 </resources>
