@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.booster.avivast.MainActivity;
 import com.booster.avivast.R;
 
 
@@ -30,6 +31,38 @@ public class EulaActivity extends Activity
         if (Build.VERSION.SDK_INT >= 21)
             getWindow().setStatusBarColor(Color.parseColor("#ff790b"));
 
+        final AppData appData = AppData.getInstance(this);
+        if(appData.getEulaAccepted())
+        {
+            Intent intent = new Intent(EulaActivity.this,MainActivity.class);
+            startActivity(intent);
+            finish();
+        }
+        /*Thread timerThread = new Thread(){
+            public void run(){
+                try{
+                    sleep(500);
+                }catch(InterruptedException e){
+                    e.printStackTrace();
+                }finally{
+
+                    if(appData.getEulaAccepted())
+                    {
+                        Intent intent = new Intent(EulaActivity.this,MainActivity.class);
+                        startActivity(intent);
+                        finish();
+                    }else
+                    {
+                        *//*Intent intent = new Intent(EulaActivity.this,EulaActivity.class);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
+                        startActivity(intent);*//*
+                    }
+
+                }
+            }
+        };
+        timerThread.start();
+*/
         _acceptEula.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -38,8 +71,9 @@ public class EulaActivity extends Activity
                 AppData appData = AppData.getInstance(EulaActivity.this);
                 appData.setEulaAccepted(true);
                 appData.serialize(EulaActivity.this);
-                Intent intent = new Intent(EulaActivity.this,AntivirusActivity.class);
+                Intent intent = new Intent(EulaActivity.this,MainActivity.class);
                 startActivity(intent);
+                finish();
             }
         });
 

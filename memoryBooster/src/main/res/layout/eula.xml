@@ -46,4 +46,15 @@
         android:textColor="#ffffff"
         android:layout_marginTop="20dp"
         android:textSize="@dimen/eula_font_size"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/cp_rigth"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/eula_font_size"/>
 </LinearLayout>

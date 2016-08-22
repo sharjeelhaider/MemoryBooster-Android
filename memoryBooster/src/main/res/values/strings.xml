@@ -96,6 +96,7 @@
     <string name="scaned_text">Scanned</string>
     <string name="menacesText">Problems</string>
     <string name="welcome_text">Welcome to Avivast Antivirus</string>
+    <string name="cp_rigth">\u00A9 2016 Calytech Ltd</string>
     <string name="phone_data_shared">Phone data shared</string>
     <string name="location_shared">Location shared</string>
     <string name="read_your_sms">Can read your SMS</string>

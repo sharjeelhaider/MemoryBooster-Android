@@ -4,29 +4,29 @@
     api-level="23"
     density="xxhdpi"
     format="8"
-    timestamp="90782838552685"
+    timestamp="4553778308913"
     token="6800088919134146744"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3610" />
+        duration="4755" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3995" />
+        duration="3088" />
     <task
         name="verifier"
-        duration="766" />
+        duration="736" />
 
     <artifact
         location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="90782838552685"
+        timestamp="4553778308913"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\outputs\apk\memoryBooster-debug.apk"

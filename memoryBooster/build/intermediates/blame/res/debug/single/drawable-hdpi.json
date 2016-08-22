@@ -144,12 +144,12 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_light.png"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ab_stacked_solid_easyrambooster.9.png",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_easyrambooster.9.png"
-    },
-    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_unselected_easyrambooster.9.png",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable-hdpi\\tab_unselected_easyrambooster.9.png"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ab_stacked_solid_easyrambooster.9.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_easyrambooster.9.png"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cab_done_focused_easyrambooster.9.png",

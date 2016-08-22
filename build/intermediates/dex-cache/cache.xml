@@ -3,483 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_fb8cf8d5f27e858d26536ae1db7f7c3fe753ef8c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_7a52954615e00eac01aaf98e1b99d1b4ae540fd6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_88afb2c4e71287abf1932c728569a2e3c9fe4690\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_8ed861aea411fe7799e2514dd8448ca7bb888ba4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="J:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_a659bc671d2f1cdeda32dd5c2a3cfbcaf267b0eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_fbd7c74ee33bdcc0eba27e456c575150e4fd8809\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.liulishuo.magicprogresswidget\library\1.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="9c2e74c7a2e1dfc35499d6f15bc7e0bc28257d61">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.liulishuo.magicprogresswidget-library-1.0.2_3b4efa3c379ced67ed791db4471525844306c7ef\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_63b2edc76d3db6fee56294a169a51f03de2509d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_16629743bf0022508622b0ce004060da8118f422\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_61a0da0963f9587ad0816d7aee95ddddd3379a87\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_20f7971419f85c0312cdc041cb5c7334eff375dd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_dd181d839b9195b8047683e357fd1ff269f38f48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_d9121e22f797d40e9cba2e4f690fc7cef8b30e3d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_56a7ef40881ae6279fdd7f93467b3273863f241b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_100d95bfc4cb1b1317978a9ae3b5d021a18a9771\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_1bc88d1705660352c5a01a547dc0fed3d6d45d09\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_7a2017a04eac9fc9f62d6307cbfa9040914fe664\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_e20c1ec71a91ad63a2472d92ff1bf89521360aa0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f01f890acded528463c110900bd5956156474699\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_4fe29ea244edb95904d396e6c44588f53d4a4f78\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_9ac90e569865ed7107082cbfb74938f7d4179927\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="2a149f8797d4ca248b65af66a4e841bb24460e2c">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91926d89e435342db8b495482f856c27b76e43ca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_e30683550132fda09c56f07ce173d9f00025230f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_2fba69a772e6ad71c015083b1ccbb19761e13701\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_840272d87d0043bd1e5831827936032554e4f25f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e4ab5f27f497cbbf6b81afc310d41796a5e85268\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_4a65cee7ae8dbcc46c44df901e98d3ff123ee643\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_7d1940242bd66423384a0f28ba27ffffbd83a440\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_7c212cf7dc76462e78a989321b9210f72f74eeea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_15012b929fd9e75170368a1538ac34806af7579e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\libs\libGoogleAnalyticsServices.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\libGoogleAnalyticsServices_6fb56f2e7c3505f590980453531d22faab52b837\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_15de83acf35cc712762035621f9689860f8b2244\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_d47a7fb81f00a73decd80f85d2e47dae6e68a222\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_d5cbf9f713cda2827e5ebe39e87d493c5b03542a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_3aa0ab05be1559fae678f54ee8c88ffcee81ebc6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_934adb4336b6eff38a29b62ddc70210f9c5d1484\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_74f7ff6ddce36d8d2ef78cc92c6d6c88c1f25222\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_4f3591f5cad68a7b3963f3874c6468a18913b777\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_dc357012022c91d9b0386004cd46abb1a2aa8277\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\hpp\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.2\36d6e77a419cb455e6fd5909f6f96b168e21e9d0\joda-time-2.9.2.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="36d6e77a419cb455e6fd5909f6f96b168e21e9d0">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.2_69a0cc7de64c7882304e7059684252a2ea13acb0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_50bc86cf8481c2304d0b35410d07d6a1498ad2a0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_13efe532df9cf0ee39dae6a914e6b0c02c0f7895\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_d517fe0709670fd0c751906df6f53f8e1fcf1f95\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_a85c6c477fdcfbbbae4f2cb8a523545d8856d9de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_39d818b006de4d6201b27c29cf8dc68fcabc368a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_f1033aad24570b92c67a51c66c7c71d997539fa0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_2df3bda35389464832f8553dc83375aab8d8a241\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\libs\com.haarman.listviewanimations-2.5.2.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="61b94ed76a675ca3d6aa882e7d0a0fdc56a73cd2">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\com.haarman.listviewanimations-2.5.2_25d98b1c66e4fafc65605903abda0a04866a0d61\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_9c61a113911849ad42bcb414f83d12d693ff98be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_93e768b725990dc227d32bdd3717aaf18efedb9e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_f8315b4d767fe09b79d6d0b435a202b22517ca15\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_f54a6eb0f9ae6c55173694288065962ffbb0e2e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_72b05adb5733069fb017a28808e482f80440d902\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -507,6 +30,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_fb8cf8d5f27e858d26536ae1db7f7c3fe753ef8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_7a52954615e00eac01aaf98e1b99d1b4ae540fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -525,6 +66,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_88afb2c4e71287abf1932c728569a2e3c9fe4690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_8ed861aea411fe7799e2514dd8448ca7bb888ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -540,6 +99,15 @@
         revision="24.0.0"
         sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_1058990a11ca9805e09a07978c28f193866f622f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_a659bc671d2f1cdeda32dd5c2a3cfbcaf267b0eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -570,6 +138,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_fbd7c74ee33bdcc0eba27e456c575150e4fd8809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -579,12 +156,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.liulishuo.magicprogresswidget\library\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9c2e74c7a2e1dfc35499d6f15bc7e0bc28257d61">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.liulishuo.magicprogresswidget-library-1.0.2_3b4efa3c379ced67ed791db4471525844306c7ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_5ce28151315435e61f99d66a3095700b4eb54237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_63b2edc76d3db6fee56294a169a51f03de2509d4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -642,12 +237,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_16629743bf0022508622b0ce004060da8118f422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_43765268735d8d83618834581b25b8bf9e85876a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_61a0da0963f9587ad0816d7aee95ddddd3379a87\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -669,6 +282,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_20f7971419f85c0312cdc041cb5c7334eff375dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_dd181d839b9195b8047683e357fd1ff269f38f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -684,6 +315,15 @@
         revision="24.0.0"
         sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_b66e5b97a0c5849bb75259edacb7264a3c3c7c90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_d9121e22f797d40e9cba2e4f690fc7cef8b30e3d\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -705,6 +345,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_56a7ef40881ae6279fdd7f93467b3273863f241b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -723,12 +372,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_100d95bfc4cb1b1317978a9ae3b5d021a18a9771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="373cd65725af2781d100ddc193c7d3f14464a774">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_19acf079364d824edb9d25a6cc1a34f8d880c5b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_1bc88d1705660352c5a01a547dc0fed3d6d45d09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_7a2017a04eac9fc9f62d6307cbfa9040914fe664\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -741,11 +417,56 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_e20c1ec71a91ad63a2472d92ff1bf89521360aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f01f890acded528463c110900bd5956156474699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_4fe29ea244edb95904d396e6c44588f53d4a4f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_9ac90e569865ed7107082cbfb74938f7d4179927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2a149f8797d4ca248b65af66a4e841bb24460e2c">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91926d89e435342db8b495482f856c27b76e43ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="7d22c6214f57fc521d1573b99167b6b4ae589622">
+        sha1="512ead4c346426eece7ca0a17fa3d7933affae7f">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_45a7dcfda2af666e78c396be86c261db0f357896\classes.dex" />
     </item>
     <item
@@ -768,6 +489,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_e30683550132fda09c56f07ce173d9f00025230f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_2fba69a772e6ad71c015083b1ccbb19761e13701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -777,12 +516,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_840272d87d0043bd1e5831827936032554e4f25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e4ab5f27f497cbbf6b81afc310d41796a5e85268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_4a65cee7ae8dbcc46c44df901e98d3ff123ee643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_7d1940242bd66423384a0f28ba27ffffbd83a440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_77b25b1a0a4f0fdf51caf7d58f7041da539f11f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_7c212cf7dc76462e78a989321b9210f72f74eeea\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -831,12 +615,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_15012b929fd9e75170368a1538ac34806af7579e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_3e0472915000e7acfcc48309185ba33aa36eb90f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\libGoogleAnalyticsServices_6fb56f2e7c3505f590980453531d22faab52b837\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -858,6 +660,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_15de83acf35cc712762035621f9689860f8b2244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -867,12 +678,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_d47a7fb81f00a73decd80f85d2e47dae6e68a222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_d5cbf9f713cda2827e5ebe39e87d493c5b03542a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
         <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_2c9cc62f6dccc1a6ef56c93865ef75286f45030d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_3aa0ab05be1559fae678f54ee8c88ffcee81ebc6\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -894,6 +732,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_934adb4336b6eff38a29b62ddc70210f9c5d1484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_74f7ff6ddce36d8d2ef78cc92c6d6c88c1f25222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_4f3591f5cad68a7b3963f3874c6468a18913b777\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -912,11 +777,47 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_dc357012022c91d9b0386004cd46abb1a2aa8277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpp\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.2\36d6e77a419cb455e6fd5909f6f96b168e21e9d0\joda-time-2.9.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="36d6e77a419cb455e6fd5909f6f96b168e21e9d0">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.2_69a0cc7de64c7882304e7059684252a2ea13acb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_50bc86cf8481c2304d0b35410d07d6a1498ad2a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_13efe532df9cf0ee39dae6a914e6b0c02c0f7895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="987248dde7351bef1b526525cf35fa5abc3b83de">
+        sha1="934dcaa4de056ec2cfc223469e025c1cc902145d">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6b0216e6bb726f776fcc2b4e902d96ff94b9b642\classes.dex" />
     </item>
     <item
@@ -927,6 +828,15 @@
         revision="24.0.0"
         sha1="b9a341baf922817299028f9c00809d5ef6bcd4e7">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.jakob-grabner-Circle-Progress-View-1.2.8_650e3b3d874d426552604dd09756a871e178a53c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_d517fe0709670fd0c751906df6f53f8e1fcf1f95\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -948,12 +858,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_a85c6c477fdcfbbbae4f2cb8a523545d8856d9de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="69472e334350cafbf442776da05c9a04955252fb">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_9e89a4755abe0f407cbc9194272f9222566e2433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_39d818b006de4d6201b27c29cf8dc68fcabc368a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_f1033aad24570b92c67a51c66c7c71d997539fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_2df3bda35389464832f8553dc83375aab8d8a241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\libs\com.haarman.listviewanimations-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="61b94ed76a675ca3d6aa882e7d0a0fdc56a73cd2">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\com.haarman.listviewanimations-2.5.2_25d98b1c66e4fafc65605903abda0a04866a0d61\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1011,12 +966,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_9c61a113911849ad42bcb414f83d12d693ff98be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_93e768b725990dc227d32bdd3717aaf18efedb9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_f8315b4d767fe09b79d6d0b435a202b22517ca15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_3ba5614f91745942bda445bfaadc000dffe30b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_f54a6eb0f9ae6c55173694288065962ffbb0e2e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="F:\MyWork\MemoryBooster\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_72b05adb5733069fb017a28808e482f80440d902\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1035,15 +1035,6 @@
         revision="24.0.0"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_c75f80bb77ecd5d642cdc0d600f30a15f4845b65\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\MobileWall Sdk\MemoryBooster\memoryBooster\libs\libGoogleAnalyticsServices.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
-        <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\2\libGoogleAnalyticsServices_f8683e3878f5d220f13d0614b99c9e18e1c1cf59\classes.dex" />
     </item>
     <item
         is-multidex="true"
