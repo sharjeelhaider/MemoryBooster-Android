@@ -108,12 +108,12 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
-    },
-    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\md_nav_back.png",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\drawable-xxhdpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",

@@ -150,13 +150,13 @@ public class MainActivity extends AppCompatActivity {
 							@Override
 							public void onSelection(MaterialDialog dialog, View view, int which, CharSequence text) {
 								if (text.toString().contains("Face")){
-									Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("http://www.facebook.com"));
+									Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.facebook.com/avivast/"));
 									startActivity(intent);
 								}else if (text.toString().contains("Twit")){
-									Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("http://www.twitter.com"));
+									Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://twitter.com/avivast_soft"));
 									startActivity(intent);
 								}else{
-									Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("http://www.instagram.com"));
+									Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://www.instagram.com/avivast_soft/"));
 									startActivity(intent);
 								}
 							}

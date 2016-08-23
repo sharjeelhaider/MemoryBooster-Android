@@ -40,16 +40,16 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_item.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
@@ -120,12 +120,12 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\layout\\anti_activity_main.xml"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\progress_spinner.xml",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\MemoryBooster\\progressWheel\\unspecified\\res\\layout\\progress_spinner.xml"
-    },
-    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\progress_spinner.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\MemoryBooster\\progressWheel\\unspecified\\res\\layout\\progress_spinner.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -192,16 +192,16 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\src\\main\\res\\layout\\boost_dialog.xml"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\layout\\md_stub_titleframe.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -300,12 +300,12 @@
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.1\\res\\layout\\md_dialog_basic.xml"
     },
     {
-        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "F:\\MobileWall Sdk\\MemoryBooster\\memoryBooster\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
