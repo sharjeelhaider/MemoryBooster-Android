@@ -834,7 +834,7 @@
 \n\nWould you like to do it now?</string>
     <string name="has_been_scanned">has problems.</string>
     <string name="has_no_threats">is safe to open.</string>
-    <string name="high_risk">High Risk</string>
+    <string name="high_risk">Privacy Risk</string>
     <string name="ignored_counter">#1 Apps ignored</string>
     <string name="ignored_setting">Ignore setting</string>
     <string name="igonred_message_dialog">No applications in ignore list</string>
@@ -847,7 +847,7 @@
     <string name="is_secure">is safe to open.</string>
     <string name="last_scanned">Last scan: #1</string>
     <string name="location_shared">Location shared</string>
-    <string name="medium_risk">Medium Risk</string>
+    <string name="medium_risk">Vulnerable App</string>
     <string name="mem">Memory: </string>
     <string name="menacesText">Problems</string>
     <string name="menaces_unresolved">#1 Problems</string>

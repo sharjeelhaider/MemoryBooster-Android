@@ -69,8 +69,8 @@
     <string name="scanningText">Scanning...</string>
     <string name="execute_first_analysis">Run first analysis to check threats</string>
     <string name="are_protected">You are protected</string>
-    <string name="high_risk">High Risk</string>
-    <string name="medium_risk">Medium Risk</string>
+    <string name="high_risk">Privacy Risk</string>
+    <string name="medium_risk">Vulnerable App</string>
     <string name="trusted_by_app">is a trusted application verified by AMS Antivirus.</string>
     <string name="trusted_by_user">Medium Risk</string>
     <string name="trusted_message">is a trusted application.</string>

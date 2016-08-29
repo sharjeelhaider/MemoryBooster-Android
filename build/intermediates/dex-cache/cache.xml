@@ -475,7 +475,7 @@
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="73d921e694ee7f3ed377998e485619e5ba7e668f">
+        sha1="a1eaf37c317753e6e6510a12d8bd0b89833c8aab">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_45a7dcfda2af666e78c396be86c261db0f357896\classes.dex" />
     </item>
     <item
@@ -844,7 +844,7 @@
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="061e2ff76bae8fb4c487ecaab5b72a7466e5d238">
+        sha1="179f6fe11f51258bad0956cdb3253e26afbab82a">
         <dex dex="F:\MobileWall Sdk\MemoryBooster\memoryBooster\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6b0216e6bb726f776fcc2b4e902d96ff94b9b642\classes.dex" />
     </item>
     <item
